@@ -1,0 +1,2599 @@
+[
+    {
+        "name": "Alameda County Library",
+        "slug": "aclibrary",
+        "lat": 37.5508,
+        "lng": -121.9886,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Alcona County Library",
+        "slug": "alcona",
+        "lat": 44.6568,
+        "lng": -83.4203,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Algonquin Area Public Library",
+        "slug": "aapld",
+        "lat": 42.1620,
+        "lng": -88.3143,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Allegheny County Libraries",
+        "slug": "acl",
+        "lat": 40.4406,
+        "lng": -79.9959,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Allendale Township Library",
+        "slug": "allendale",
+        "lat": 42.9741,
+        "lng": -85.8969,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Almont District Library",
+        "slug": "adl",
+        "lat": 42.9201,
+        "lng": -83.0368,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Alvah N. Belding Memorial Library",
+        "slug": "belding",
+        "lat": 43.0980,
+        "lng": -85.2519,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Annapolis Valley Regional Library",
+        "slug": "samepageavrl",
+        "lat": 44.9912,
+        "lng": -64.6878,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Arapahoe Libraries",
+        "slug": "arapahoelibraries",
+        "lat": 39.5780,
+        "lng": -104.3322,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Arrowwood Municipal Library",
+        "slug": "arrowwood",
+        "lat": 50.7380,
+        "lng": -113.1511,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Aurora Public Library",
+        "slug": "aurora",
+        "lat": 43.9970,
+        "lng": -88.2901,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Austin Public Library",
+        "slug": "austin",
+        "lat": 30.2672,
+        "lng": -97.7431,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Barnwell Public Library",
+        "slug": "barnwell",
+        "lat": 33.2436,
+        "lng": -81.3588,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Barrie Public Library",
+        "slug": "barrie",
+        "lat": 44.3921,
+        "lng": -79.6903,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Bay County Library System",
+        "slug": "bcls",
+        "lat": 43.5973,
+        "lng": -83.8882,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Belleville Public Library",
+        "slug": "belleville",
+        "lat": 44.1628,
+        "lng": -77.3832,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Bellingham Public Library",
+        "slug": "bellingham",
+        "lat": 48.7541,
+        "lng": -122.4787,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Beverly Hills Public Library",
+        "slug": "beverlyhills",
+        "lat": 34.0729,
+        "lng": -118.3991,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Boca Raton Public Library",
+        "slug": "bocalibrary",
+        "lat": 26.3544,
+        "lng": -80.0893,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Bowen Island Public Library",
+        "slug": "bowenlibrary",
+        "lat": 49.3799,
+        "lng": -123.3340,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Boyne District Library",
+        "slug": "bdl",
+        "lat": 45.2121,
+        "lng": -85.0129,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Bradford Public Library",
+        "slug": "bradford",
+        "lat": 43.9929,
+        "lng": -72.1286,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Brantford Public Library",
+        "slug": "brantford",
+        "lat": 43.1599,
+        "lng": -80.2712,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Brighton Public Library",
+        "slug": "brighton",
+        "lat": 44.0,
+        "lng": -77.5,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Brockville Public Library",
+        "slug": "brockville",
+        "lat": 44.589,
+        "lng": -75.684,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Brooklyn Public Library",
+        "slug": "brooklyn",
+        "lat": 40.672,
+        "lng": -73.9687,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Bruce County Public Library",
+        "slug": "brucecounty",
+        "lat": 44.3,
+        "lng": -81.4,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Burlingame Public Library",
+        "slug": "burlingame",
+        "lat": 37.5793,
+        "lng": -122.3492,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Burlington County Library System",
+        "slug": "bclsnj",
+        "lat": 39.9603,
+        "lng": -74.9969,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Burlington Public Library",
+        "slug": "burlington",
+        "lat": 43.3255,
+        "lng": -79.799,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Burnaby Public Library",
+        "slug": "burnaby",
+        "lat": 49.2210,
+        "lng": -122.9530,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Caledon Public Library",
+        "slug": "caledon",
+        "lat": 43.8322,
+        "lng": -80.0849,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Calgary Public Library",
+        "slug": "calgary",
+        "lat": 51.0447,
+        "lng": -114.0719,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cambridge Public Library",
+        "slug": "cambridgepl",
+        "lat": 42.3740,
+        "lng": -71.1105,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Canton Public Library",
+        "slug": "cantonpl",
+        "lat": 42.2968,
+        "lng": -83.4877,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cape Breton Regional Library",
+        "slug": "samepagecbrl",
+        "lat": 46.1356,
+        "lng": -60.1934,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Carleton Place Public Library",
+        "slug": "carletonplace",
+        "lat": 45.1386,
+        "lng": -76.1347,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Carmangay Municipal Library",
+        "slug": "carmangay",
+        "lat": 50.1267,
+        "lng": -113.4083,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Carmel Clay Public Library",
+        "slug": "carmel",
+        "lat": 39.9778,
+        "lng": -86.1218,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Caro Area District Library",
+        "slug": "carolibrary",
+        "lat": 43.4890,
+        "lng": -83.4053,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Carson City Public Library",
+        "slug": "carsoncity",
+        "lat": 43.1772,
+        "lng": -84.8467,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cary Area Public Library",
+        "slug": "caryarea",
+        "lat": 42.2210,
+        "lng": -88.2308,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cedar Springs Public Library",
+        "slug": "cedarsprings",
+        "lat": 32.8124,
+        "lng": -96.8124,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Central Arkansas Library System",
+        "slug": "cals",
+        "lat": 34.7470,
+        "lng": -92.2673,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Central Rappahannock Regional Library",
+        "slug": "librarypoint",
+        "lat": 38.3061,
+        "lng": -77.4607,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Champion Municipal Library",
+        "slug": "champion",
+        "lat": 55.2405,
+        "lng": -113.8167,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Chandler Public Library",
+        "slug": "chandler",
+        "lat": 33.2200,
+        "lng": -111.7568,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Chapel Hill Public Library",
+        "slug": "chpl",
+        "lat": 35.9321,
+        "lng": -79.0358,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Charlevoix Public Library",
+        "slug": "charlevoix",
+        "lat": 45.3165,
+        "lng": -85.2638,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Charlotte Mecklenburg Library",
+        "slug": "cmlibrary",
+        "lat": 35.2575,
+        "lng": -80.7974,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cheboygan Area Public Library",
+        "slug": "cheboygan",
+        "lat": 45.6439,
+        "lng": -84.4808,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Chicago Public Library",
+        "slug": "chipublib",
+        "lat": 41.8781,
+        "lng": -87.6298,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Chinook Arch Regional Library System",
+        "slug": "chinookarch",
+        "lat": 49.6935,
+        "lng": -112.8418,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cincinnati & Hamilton County Public Library",
+        "slug": "cincinnatilibrary",
+        "lat": 39.1031,
+        "lng": -84.512,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Claresholm Public Library",
+        "slug": "claresholm",
+        "lat": 50.0246,
+        "lng": -113.0533,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Clark County Public Library",
+        "slug": "ccplohio",
+        "lat": 39.9228,
+        "lng": -83.8072,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cleveland County Library",
+        "slug": "clevelandcountylibrary",
+        "lat": 35.2930,
+        "lng": -81.5556,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Coaldale Public Library",
+        "slug": "coaldale",
+        "lat": 49.7264,
+        "lng": -112.6201,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Colchester East Hants Public Library",
+        "slug": "samepagecehpl",
+        "lat": 45.3640,
+        "lng": -63.2788,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Coleman Area Library",
+        "slug": "col",
+        "lat": 43.7551,
+        "lng": -84.5824,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Columbus Metropolitan Library",
+        "slug": "cml",
+        "lat": 39.9612,
+        "lng": -82.9988,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Community District Library",
+        "slug": "cdl",
+        "lat": 42.9816,
+        "lng": -84.1162,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Contra Costa County Library",
+        "slug": "ccclib",
+        "lat": 37.9693,
+        "lng": -122.3373,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Coopersville Area District Library",
+        "slug": "coopersville",
+        "lat": 43.06606,
+        "lng": -85.9581,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Coquitlam Public Library",
+        "slug": "coqlibrary",
+        "lat": 49.2537,
+        "lng": -122.7825,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Coronado Public Library",
+        "slug": "coronado",
+        "lat": 32.6912,
+        "lng": -117.1777,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "County of Brant Public Library",
+        "slug": "brant",
+        "lat": 43.1937,
+        "lng": -80.3861,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Coutts Municipal Library",
+        "slug": "coutts",
+        "lat": 48.9998,
+        "lng": -111.9639,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Crooked Tree District Library",
+        "slug": "ctdl",
+        "lat": 45.2676,
+        "lng": -84.9316,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Croton Township Library",
+        "slug": "croton",
+        "lat": 40.5030,
+        "lng": -74.9012,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Crowsnest Community Library",
+        "slug": "crowsnestpass",
+        "lat": 49.6244,
+        "lng": -114.5378,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Crystal Lake Public Library",
+        "slug": "crystallake",
+        "lat": 42.2396,
+        "lng": -88.3251,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cumberland Public Libraries",
+        "slug": "samepagecpl",
+        "lat": 45.4715,
+        "lng": -75.4933,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Dallas County Library",
+        "slug": "dallascountylibrary",
+        "lat": 37.6442,
+        "lng": -93.0939,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Daly City Public Library",
+        "slug": "dalycity",
+        "lat": 37.7019,
+        "lng": -122.4628,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Daniel Boone Regional Library",
+        "slug": "dbrl",
+        "lat": 38.9511,
+        "lng": -92.3399,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Daviess County Public Library",
+        "slug": "dcpl",
+        "lat": 37.7560,
+        "lng": -87.1122,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Dayton Metro Library",
+        "slug": "dayton",
+        "lat": 39.7607,
+        "lng": -84.1877,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Delaware County District Library",
+        "slug": "delawarelibrary",
+        "lat": 40.1484,
+        "lng": -83.0727,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Denton Public Library",
+        "slug": "denton",
+        "lat": 35.6340,
+        "lng": -80.1190,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Department Of Education",
+        "slug": "unioncatalogdoe",
+        "lat": 40.2614,
+        "lng": -76.8797,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Des Plaines Public Library",
+        "slug": "desplaines",
+        "lat": 42.0404,
+        "lng": -87.8872,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Deschutes Public Library",
+        "slug": "dpl",
+        "lat": 44.0563,
+        "lng": -121.3176,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Dorr Township Library",
+        "slug": "dorr",
+        "lat": 42.7334,
+        "lng": -85.7225,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Douglas County Libraries",
+        "slug": "dcl",
+        "lat": 39.5186,
+        "lng": -104.7614,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Dryden Township Library",
+        "slug": "dry",
+        "lat": 42.9461,
+        "lng": -85.4149,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Durham County Library",
+        "slug": "durhamcounty",
+        "lat": 35.9949,
+        "lng": -78.8967,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "East Baton Rouge Parish Library",
+        "slug": "ebrpl",
+        "lat": 30.4507,
+        "lng": -91.1546,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "East Chicago Public Library",
+        "slug": "ec",
+        "lat": 41.8839,
+        "lng": -87.6248,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "East Gwillimbury Public Library",
+        "slug": "egpl",
+        "lat": 44.1,
+        "lng": -79.45,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "East Lansing Public Library",
+        "slug": "elpl",
+        "lat": 42.7437,
+        "lng": -84.4825,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "East Chicago Public Library",
+        "slug": "ec",
+        "lat": 41.8839,
+        "lng": -87.6248,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "East Gwillimbury Public Library",
+        "slug": "egpl",
+        "lat": 44.1050,
+        "lng": -79.4910,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "East Lansing Public Library",
+        "slug": "elpl",
+        "lat": 42.7437,
+        "lng": -84.4825,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Eastern Counties Regional Library",
+        "slug": "samepageecrl",
+        "lat": 45.6090,
+        "lng": -61.3945,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Edmonton Public Library",
+        "slug": "epl",
+        "lat": 53.5461,
+        "lng": -113.4938,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Ela Area Public Library",
+        "slug": "elalibrary",
+        "lat": 42.1948,
+        "lng": -88.0883,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Elk Grove Village Public Library",
+        "slug": "egvpl",
+        "lat": 42.0015,
+        "lng": -88.0079,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Evanston Public Library",
+        "slug": "evanstonlibrary",
+        "lat": 42.0484,
+        "lng": -87.6800,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fennville District Library",
+        "slug": "fennville",
+        "lat": 42.5908,
+        "lng": -86.2186,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Flat River Community Library",
+        "slug": "flatriver",
+        "lat": 43.1742,
+        "lng": -85.2548,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fort Saskatchewan Public Library",
+        "slug": "fspl",
+        "lat": 53.7131,
+        "lng": -113.2137,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fort St John Public Library",
+        "slug": "fsjpl",
+        "lat": 56.2459,
+        "lng": -120.8479,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fort Vancouver Regional Libraries",
+        "slug": "fvrlibraries",
+        "lat": 45.6288,
+        "lng": -122.6682,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fox River Valley Public Library",
+        "slug": "foxrivervalley",
+        "lat": 42.1045,
+        "lng": -88.2836,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Frankenmuth James E. Wickson District Library",
+        "slug": "fkm",
+        "lat": 43.3318,
+        "lng": -83.7396,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fraser Valley Regional Library",
+        "slug": "fvrl",
+        "lat": 49.1044,
+        "lng": -122.8011,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Freeport District Library",
+        "slug": "freeport",
+        "lat": 42.3006,
+        "lng": -89.6216,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fremont Area District Library",
+        "slug": "fremont",
+        "lat": 43.4668,
+        "lng": -85.9425,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fremont Public Library",
+        "slug": "fremontlibrary",
+        "lat": 42.2821,
+        "lng": -88.0201,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Frisco Public Library",
+        "slug": "friscolibrary",
+        "lat": 33.1448,
+        "lng": -96.8350,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fruitport District Library",
+        "slug": "fruitport",
+        "lat": 43.1242,
+        "lng": -86.1557,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Fulton County Library System",
+        "slug": "fulcolibrary",
+        "lat": 40.5078,
+        "lng": -88.9176,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Gary Byker Memorial Library",
+        "slug": "garybyker",
+        "lat": 42.9634,
+        "lng": -85.6680,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Georgetown Township Public Library",
+        "slug": "georgetown",
+        "lat": 42.9084,
+        "lng": -85.8196,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Georgina Public Library",
+        "slug": "georgina",
+        "lat": 44.2083,
+        "lng": -79.4437,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Gibsons & District Public Library",
+        "slug": "gibsons",
+        "lat": 49.4004,
+        "lng": -123.5027,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Gladwin County District Library",
+        "slug": "gcdl",
+        "lat": 43.9845,
+        "lng": -84.4857,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Glencoe Public Library",
+        "slug": "glencoe",
+        "lat": 42.1347,
+        "lng": -87.7584,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Glendale Central Library",
+        "slug": "glac",
+        "lat": 34.1444,
+        "lng": -118.2551,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Glenview Public Library",
+        "slug": "glenviewpl",
+        "lat": 42.0734,
+        "lng": -87.7876,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Glenwood Municipal Library",
+        "slug": "glenwood",
+        "lat": 49.3646,
+        "lng": -113.5102,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Grand Rapids Public Library",
+        "slug": "grpl",
+        "lat": 42.9649,
+        "lng": -85.6660,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Grant Area District Library",
+        "slug": "grant",
+        "lat": 43.3350,
+        "lng": -85.8019,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Grant County Library",
+        "slug": "grantcountylibrary",
+        "lat": 44.4095,
+        "lng": -118.9523,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Granum Public Library",
+        "slug": "granum",
+        "lat": 49.8715,
+        "lng": -113.4934,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Grassy Lake Public Library",
+        "slug": "grassylake",
+        "lat": 49.823858,
+        "lng": -111.698495,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Grayslake Area Public Library District",
+        "slug": "grayslake",
+        "lat": 42.346987,
+        "lng": -88.036103,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Greater Sudbury Public Library",
+        "slug": "gspl",
+        "lat": 46.5226,
+        "lng": -80.9468,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Greene County Public Library",
+        "slug": "greenelibrary",
+        "lat": 36.1649,
+        "lng": -82.8295,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Greenwich Library",
+        "slug": "greenwichlibrary",
+        "lat": 41.0295,
+        "lng": -73.6248,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Guelph Public Library",
+        "slug": "guelphpl",
+        "lat": 43.5457,
+        "lng": -80.2529,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hackley Public Library",
+        "slug": "hackley",
+        "lat": 43.2342,
+        "lng": -86.2514,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Haldimand County Public Library",
+        "slug": "haldimand",
+        "lat": 43.0645,
+        "lng": -79.9569,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Haliburton County Public Library",
+        "slug": "haliburton",
+        "lat": 45.0333,
+        "lng": -78.5167,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Halifax Public Libraries",
+        "slug": "halifax",
+        "lat": 44.6646,
+        "lng": -63.5691,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hamilton Public Library",
+        "slug": "hpl",
+        "lat": 43.2557,
+        "lng": -79.8711,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Harris County Public Library",
+        "slug": "hcpl",
+        "lat": 32.7540,
+        "lng": -84.9002,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Harrison District Library",
+        "slug": "hdl",
+        "lat": 44.0210,
+        "lng": -84.8007,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hastings Public Library",
+        "slug": "hastings",
+        "lat": 40.5868,
+        "lng": -98.3883,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hays Public Library",
+        "slug": "hays",
+        "lat": 38.8731,
+        "lng": -99.3300,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hayward Public Library",
+        "slug": "hayward",
+        "lat": 37.6711,
+        "lng": -122.0835,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Henika District Library",
+        "slug": "henika",
+        "lat": 42.6729,
+        "lng": -85.6429,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hennepin County Library",
+        "slug": "hclib",
+        "lat": 44.9778,
+        "lng": -93.265,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Herrick District Library",
+        "slug": "herrickdl",
+        "lat": 42.7862,
+        "lng": -86.1096,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hesperia Community Library",
+        "slug": "hesperia",
+        "lat": 43.5677,
+        "lng": -86.0392,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Highland Park Public Library",
+        "slug": "hplibrary",
+        "lat": 42.1845,
+        "lng": -87.7967,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hillsborough County Public Library Cooperative",
+        "slug": "hcplc",
+        "lat": 27.9944,
+        "lng": -82.5944,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Home Township Library",
+        "slug": "hometownship",
+        "lat": 43.4083,
+        "lng": -85.0407,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Hopkins District Library",
+        "slug": "hopkins",
+        "lat": 41.0664,
+        "lng": -87.6176,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Houghton Lake Public Library",
+        "slug": "hlpl",
+        "lat": 44.2978,
+        "lng": -84.7268,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Houston Public Library",
+        "slug": "houstonbc",
+        "lat": 43.7631,
+        "lng": -91.5672,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Howard Miller Public Library",
+        "slug": "howardmiller",
+        "lat": 42.8117,
+        "lng": -86.0144,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Huntley Area Public Library",
+        "slug": "huntleylibrary",
+        "lat": 42.1696,
+        "lng": -88.4117,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Huron County Library",
+        "slug": "huron",
+        "lat": 41.2420,
+        "lng": -82.6149,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Indian Trails Public Library District",
+        "slug": "itpld",
+        "lat": 42.109449,
+        "lng": -87.891574,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Innisfil Public Library",
+        "slug": "innisfil",
+        "lat": 44.3143,
+        "lng": -79.5481,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Ionia Community Library",
+        "slug": "ionia",
+        "lat": 42.9832,
+        "lng": -85.0620,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Iosco-Arenac District Library",
+        "slug": "iadl",
+        "lat": 44.2796,
+        "lng": -83.4911,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Jefferson County Public Library",
+        "slug": "jeffcolibrary",
+        "lat": 39.7064,
+        "lng": -105.0843,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Jersey City Free Public Library",
+        "slug": "jcfpl",
+        "lat": 40.7189,
+        "lng": -74.0474,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Cardston Public Library",
+        "slug": "cardston",
+        "lat": 49.199583,
+        "lng": -113.302799,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Johnson County Library",
+        "slug": "jocolibrary",
+        "lat": 38.899,
+        "lng": -94.832,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kaslo & District Public Library",
+        "slug": "kaslo",
+        "lat": 49.9106,
+        "lng": -116.9048,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kawartha Lakes Public Library",
+        "slug": "kawarthalibrary",
+        "lat": 44.5,
+        "lng": -78.5,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kenosha Public Library",
+        "slug": "mykpl",
+        "lat": 42.6320,
+        "lng": -87.8426,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kent District Library",
+        "slug": "kdl",
+        "lat": 42.8164,
+        "lng": -85.7241,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kenton County Public Library",
+        "slug": "kentonlibrary",
+        "lat": 39.0300,
+        "lng": -84.5940,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "King County Library System",
+        "slug": "kcls",
+        "lat": 47.5403,
+        "lng": -122.0504,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "King Township Public Library",
+        "slug": "king",
+        "lat": 43.8667,
+        "lng": -79.5167,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kitimat Public Library Association",
+        "slug": "kitimat",
+        "lat": 54.0522,
+        "lng": -128.6559,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kitsap Regional Library",
+        "slug": "krl",
+        "lat": 47.5668,
+        "lng": -122.6284,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lake County Library",
+        "slug": "lakecountyca",
+        "lat": 28.8287,
+        "lng": -81.7972,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lake Forest Library",
+        "slug": "lakeforestlibrary",
+        "lat": 45.2389,
+        "lng": -92.9877,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lake Odessa Community Library",
+        "slug": "lakeodessa",
+        "lat": 42.7103,
+        "lng": -85.1847,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lake Villa District Library",
+        "slug": "lvdl",
+        "lat": 42.4142,
+        "lng": -88.0582,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lakeland Library Cooperative",
+        "slug": "llc",
+        "lat": 28.0687,
+        "lng": -81.9578,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lapeer District Library",
+        "slug": "ldl",
+        "lat": 43.0258,
+        "lng": -83.0779,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Las Vegas-Clark County Library District",
+        "slug": "lvccld",
+        "lat": 36.1699,
+        "lng": -115.1398,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Laurel County Public Library",
+        "slug": "laurellibrary",
+        "lat": 37.1161,
+        "lng": -84.0611,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lawrence Public Library",
+        "slug": "lawrence",
+        "lat": 38.9709,
+        "lng": -95.2377,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Leeds and the Thousand Islands Public Library",
+        "slug": "lti",
+        "lat": 44.4782,
+        "lng": -76.2343,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Leighton Township Library",
+        "slug": "leighton",
+        "lat": 42.9832,
+        "lng": -85.0620,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lennox & Addington County",
+        "slug": "countylibrary",
+        "lat": 44.1474,
+        "lng": -76.8512,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lethbridge Public Library",
+        "slug": "lethlib",
+        "lat": 49.6745,
+        "lng": -112.9082,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lillooet Area Library Association",
+        "slug": "lillooet",
+        "lat": 50.690104,
+        "lng": -121.936103,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lincolnwood Public Library District",
+        "slug": "lpld",
+        "lat": 42.0125,
+        "lng": -87.7346,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Livermore Public Library",
+        "slug": "livermorelibrary",
+        "lat": 42.8672,
+        "lng": -94.1864,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Lomond Library",
+        "slug": "lomond",
+        "lat": 41.4622,
+        "lng": -81.5405,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Loutit District Library",
+        "slug": "loutit",
+        "lat": 43.0642,
+        "lng": -86.2267,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Mackinaw Area Public Library",
+        "slug": "mackinaw",
+        "lat": 45.7820,
+        "lng": -84.7433,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Magrath Public Library",
+        "slug": "magrath",
+        "lat": 49.4177,
+        "lng": -112.8690,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Malvern-Hot Spring County Library",
+        "slug": "malvernhsclibrary",
+        "lat": 34.3641,
+        "lng": -92.8119,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Margate City Public Library",
+        "slug": "margate",
+        "lat": 39.3617,
+        "lng": -74.4521,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Marin County Free Library",
+        "slug": "marinlibrary",
+        "lat": 38.1072,
+        "lng": -122.5801,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Markham Public Library",
+        "slug": "markham",
+        "lat": 43.8561,
+        "lng": -79.337,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Marlette District Library",
+        "slug": "mar",
+        "lat": 43.4006,
+        "lng": -83.5584,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "McHenry Public Library District",
+        "slug": "mchenrylibrary",
+        "lat": 42.3819,
+        "lng": -88.2364,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Menlo Park Library",
+        "slug": "menlopark",
+        "lat": 32.2189,
+        "lng": -110.9861,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Mid Michigan College",
+        "slug": "midmich",
+        "lat": 43.6023,
+        "lng": -84.7302,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Mid-Ark Regional Library System",
+        "slug": "midark",
+        "lat": 34.7465,
+        "lng": -92.2896,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Mid-Continent Public Library",
+        "slug": "mymcpl",
+        "lat": 39.2349,
+        "lng": -94.4334,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Milk River Municipal Library",
+        "slug": "milkriver",
+        "lat": 49.151397,
+        "lng": -112.3656,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Milo Library",
+        "slug": "milo",
+        "lat": 45.2536,
+        "lng": -68.9860,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Mississauga Library",
+        "slug": "mississauga",
+        "lat": 43.5508,
+        "lng": -79.6629,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Mississippi Mills Public Library",
+        "slug": "missmills",
+        "lat": 44.5833,
+        "lng": -76.1667,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Montmorency County Public Library",
+        "slug": "mcpl",
+        "lat": 44.8829,
+        "lng": -84.3061,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Morton Grove Public Library",
+        "slug": "mgpl",
+        "lat": 42.0356,
+        "lng": -87.7808,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Mount Prospect Public Library",
+        "slug": "mppl",
+        "lat": 42.0656,
+        "lng": -87.9361,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Multnomah County Library",
+        "slug": "multcolib",
+        "lat": 45.5152,
+        "lng": -122.6784,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Muskegon Area District Library",
+        "slug": "muskegonadl",
+        "lat": 43.4133,
+        "lng": -86.0786,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Médiathèque Francophone Emma Morrier",
+        "slug": "mfem",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Nakusp Public Library",
+        "slug": "nakusp",
+        "lat": 50.2402,
+        "lng": -117.8062,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Nanton Thelma Fanning Library",
+        "slug": "nanton",
+        "lat": 50.0758,
+        "lng": -113.3246,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Napa County Library",
+        "slug": "napalibrary",
+        "lat": 38.2955,
+        "lng": -122.2837,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Napa Valley College",
+        "slug": "nvc",
+        "lat": 38.2740,
+        "lng": -122.2764,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Naperville Public Library",
+        "slug": "naperlib",
+        "lat": 41.7089,
+        "lng": -88.2026,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Nelson Public Library",
+        "slug": "nelson",
+        "lat": 49.4905,
+        "lng": -117.2948,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "New Westminster Public Library",
+        "slug": "newwestminster",
+        "lat": 49.2057,
+        "lng": -122.9107,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Newaygo Area District Library",
+        "slug": "newaygo",
+        "lat": 43.4204,
+        "lng": -85.7986,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Newmarket Public Library",
+        "slug": "newmarketpl",
+        "lat": 44.0534,
+        "lng": -79.4616,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Nicasio School",
+        "slug": "nicasioschool",
+        "lat": 38.0685,
+        "lng": -122.7040,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Niles-Maine District Library",
+        "slug": "nmdl",
+        "lat": 42.0268,
+        "lng": -87.8011,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Norfolk County Public Library",
+        "slug": "ncpl",
+        "lat": 42.2515,
+        "lng": -71.0008,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "North Branch Township Library",
+        "slug": "nbr",
+        "lat": 40.6097,
+        "lng": -74.6886,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "North Grenville Public Library",
+        "slug": "ngpl",
+        "lat": 44.6,
+        "lng": -75.65,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "North Perth Public Library",
+        "slug": "nppl",
+        "lat": 43.7321,
+        "lng": -80.9554,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "North Vancouver City Library",
+        "slug": "nvcl",
+        "lat": 49.3211,
+        "lng": -123.0735,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Northbrook Public Library",
+        "slug": "northbrookpl",
+        "lat": 42.1306,
+        "lng": -87.8309,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Oakland Public Library",
+        "slug": "oaklandlibrary",
+        "lat": 41.0236,
+        "lng": -74.2448,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Oakville Public Library",
+        "slug": "opl",
+        "lat": 43.4501,
+        "lng": -79.682,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Ocean City Free Public Library",
+        "slug": "oceancity",
+        "lat": 39.2712,
+        "lng": -74.5906,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Okanagan Regional Library",
+        "slug": "orl",
+        "lat": 50.1163,
+        "lng": -119.27,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Olathe Public Library",
+        "slug": "olathe",
+        "lat": 38.8841,
+        "lng": -94.8177,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Omaha Public Library",
+        "slug": "omaha",
+        "lat": 41.2413,
+        "lng": -95.9778,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Orange County Public Library",
+        "slug": "orangecountync",
+        "lat": 33.8025,
+        "lng": -117.9958,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Orangeville Public Library",
+        "slug": "orangeville",
+        "lat": 43.920122,
+        "lng": -80.09203,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Oshawa Public Libraries",
+        "slug": "oshlib",
+        "lat": 43.8948,
+        "lng": -78.8650,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Otsego County Library",
+        "slug": "otsego",
+        "lat": 45.0207,
+        "lng": -84.6783,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Ottawa Public Library",
+        "slug": "ottawa",
+        "lat": 45.4215,
+        "lng": -75.6972,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Owen Sound & North Grey Union Public Library",
+        "slug": "osngupl",
+        "lat": 44.5697,
+        "lng": -80.94,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Oxford County Library",
+        "slug": "ocl",
+        "lat": 34.3652,
+        "lng": -89.5096,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Palatine Library District",
+        "slug": "palatinelibrary",
+        "lat": 42.1377,
+        "lng": -88.0191,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Palm Beach County Library System",
+        "slug": "pbclibrary",
+        "lat": 26.7155,
+        "lng": -80.1116,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Palo Alto City Library",
+        "slug": "paloalto",
+        "lat": 37.445919,
+        "lng": -122.139629,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Park Ridge Public Library",
+        "slug": "parkridge",
+        "lat": 42.0107,
+        "lng": -87.8305,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Patmos Library",
+        "slug": "patmos",
+        "lat": 42.8260,
+        "lng": -85.8435,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pemberton Public Library",
+        "slug": "pemberton",
+        "lat": 42.3022,
+        "lng": -70.9066,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pere Marquette District Library",
+        "slug": "pmdl",
+        "lat": 43.8190,
+        "lng": -84.7666,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Perth East Public Library",
+        "slug": "pepl",
+        "lat": 43.5645,
+        "lng": -80.9203,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Petawawa Public Library",
+        "slug": "petawawa",
+        "lat": 45.9,
+        "lng": -77.3667,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Petoskey District Library",
+        "slug": "petoskey",
+        "lat": 45.3720,
+        "lng": -84.9534,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pickering Public Library",
+        "slug": "pickering",
+        "lat": 43.8386,
+        "lng": -79.0861,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pictou-Antigonish Regional Library",
+        "slug": "samepageparl",
+        "lat": 45.6789,
+        "lng": -62.1234,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Picture Butte Municipal Library",
+        "slug": "picturebutte",
+        "lat": 49.9833,
+        "lng": -112.0833,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pigeon District Library",
+        "slug": "pgn",
+        "lat": 43.8283,
+        "lng": -83.2701,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pima County Public Library",
+        "slug": "pima",
+        "lat": 32.2226,
+        "lng": -110.9747,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pincher Creek Municipal Library",
+        "slug": "pinchercreek",
+        "lat": 49.5167,
+        "lng": -113.9667,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Pleasanton Public Library",
+        "slug": "pleasantonlibrary",
+        "lat": 37.6575,
+        "lng": -121.8806,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Plymouth District Library",
+        "slug": "plymouthlibrary",
+        "lat": 42.3716,
+        "lng": -83.4673,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Port Hope Public Library",
+        "slug": "porthope",
+        "lat": 43.9583,
+        "lng": -78.3089,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Port Moody Public Library",
+        "slug": "portmoody",
+        "lat": 49.2825,
+        "lng": -122.8296,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Poudre Libraries",
+        "slug": "poudrelibraries",
+        "lat": 40.5849,
+        "lng": -105.0727,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Powell River Public Library",
+        "slug": "powellriverlibrary",
+        "lat": 49.8459,
+        "lng": -124.5220,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Presque Isle District Library",
+        "slug": "pidl",
+        "lat": 45.2489,
+        "lng": -83.6983,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Princeton Public Library",
+        "slug": "princetonlibrary",
+        "lat": 40.3517,
+        "lng": -74.6603,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Prospect Heights Public Library",
+        "slug": "phpld",
+        "lat": 42.0967,
+        "lng": -87.9426,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Public Libraries of Saginaw",
+        "slug": "sge",
+        "lat": 43.4304,
+        "lng": -83.9357,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Public Library of Youngstown and Mahoning County",
+        "slug": "plymc",
+        "lat": 41.103039,
+        "lng": -80.64612,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Quinte West Public Library",
+        "slug": "quintewest",
+        "lat": 44.2,
+        "lng": -77.5,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Ramsey County Library",
+        "slug": "rclreads",
+        "lat": 45.0075,
+        "lng": -93.1558,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Raymond Public Library",
+        "slug": "raymond",
+        "lat": 45.0170,
+        "lng": -95.2399,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Red Deer Public Library",
+        "slug": "rdpl",
+        "lat": 52.2681,
+        "lng": -113.811,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Redwood City Public Library",
+        "slug": "rcpl",
+        "lat": 37.4839,
+        "lng": -122.2275,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Region of Waterloo Library",
+        "slug": "rwlibrary",
+        "lat": 43.4527,
+        "lng": -80.4861,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Richmond Hill Public Library",
+        "slug": "rhpl",
+        "lat": 43.8828,
+        "lng": -79.4403,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Rideau Lakes Public Library",
+        "slug": "rideau",
+        "lat": 44.6,
+        "lng": -76.0,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "River Rapids District Library",
+        "slug": "che",
+        "lat": 43.1841,
+        "lng": -84.1135,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Rolling Meadows Library",
+        "slug": "rmlib",
+        "lat": 42.0776,
+        "lng": -88.0216,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Rossland Public Library",
+        "slug": "rossland",
+        "lat": 49.0771,
+        "lng": -117.7975,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Round Lake Area Public Library",
+        "slug": "rlalibrary",
+        "lat": 42.3578,
+        "lng": -88.1058,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Ruth Hughes Memorial District Library",
+        "slug": "ruthhughes",
+        "lat": 43.0258,
+        "lng": -83.0779,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "SDG Library",
+        "slug": "sdglibrary",
+        "lat": 45.1408,
+        "lng": -74.4999,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Saint Paul Public Library",
+        "slug": "sppl",
+        "lat": 44.9579,
+        "lng": -93.0753,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Salem Township Library",
+        "slug": "salem",
+        "lat": 42.7252,
+        "lng": -85.8420,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Saline County Library",
+        "slug": "salinecountylibrary",
+        "lat": 34.5801,
+        "lng": -92.5722,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "San Antonio Public Library",
+        "slug": "mysapl",
+        "lat": 29.4241,
+        "lng": -98.4936,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "San Bruno Public Library",
+        "slug": "sbl",
+        "lat": 37.6252,
+        "lng": -122.4150,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "San Diego County Library",
+        "slug": "sdcl",
+        "lat": 32.7388,
+        "lng": -117.2142,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "San Francisco Public Library",
+        "slug": "sfpl",
+        "lat": 37.7793,
+        "lng": -122.4192,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "San José Public Library",
+        "slug": "sjpl",
+        "lat": 14.9695,
+        "lng": 145.6256,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "San Mateo County Libraries",
+        "slug": "smcl",
+        "lat": 37.4873,
+        "lng": -122.2305,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "San Mateo Public Library",
+        "slug": "smplibrary",
+        "lat": 37.5619,
+        "lng": -122.3270,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Sandusky District Library",
+        "slug": "san",
+        "lat": 43.4217,
+        "lng": -82.8282,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Santa Clara City Library",
+        "slug": "sclibrary",
+        "lat": 37.3015,
+        "lng": -122.0036,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Santa Clara County Library",
+        "slug": "sccl",
+        "lat": 37.3015,
+        "lng": -122.0036,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Saranac Clarksville District Library",
+        "slug": "saranac-clarksville",
+        "lat": 42.843668,
+        "lng": -85.24297,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Saugatuck-Douglas District Library",
+        "slug": "saugatuck-douglas",
+        "lat": 42.6439,
+        "lng": -86.2050,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Sault Ste. Marie Public Library",
+        "slug": "ssmpl",
+        "lat": 46.5219,
+        "lng": -84.346,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Shortgrass Library System",
+        "slug": "shortgrass",
+        "lat": 50.017235,
+        "lng": -110.709027,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Sitka Library",
+        "slug": "tnrd",
+        "lat": 57.0496,
+        "lng": -135.3338,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Skokie Public Library",
+        "slug": "skokielibrary",
+        "lat": 42.0258,
+        "lng": -87.7580,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Smithers Public Library",
+        "slug": "smithers",
+        "lat": 54.7785,
+        "lng": -127.1753,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Sno-Isle Libraries",
+        "slug": "sno-isle",
+        "lat": 47.8101,
+        "lng": -122.3729,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Sonoma County Library",
+        "slug": "sonoma",
+        "lat": 38.4414,
+        "lng": -122.7110,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "South San Francisco Public Library",
+        "slug": "ssf",
+        "lat": 37.6563,
+        "lng": -122.4354,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "South Shore Public Libraries",
+        "slug": "samepagesspl",
+        "lat": 38.7237,
+        "lng": -82.9462,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Sparta Carnegie Township Library",
+        "slug": "spartacarnegie",
+        "lat": 43.9497,
+        "lng": -90.7761,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Spring Lake District Library",
+        "slug": "springlake",
+        "lat": 43.0763,
+        "lng": -86.1956,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Squamish Public Library",
+        "slug": "squamish",
+        "lat": 49.6975,
+        "lng": -123.1563,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St Helena Public Library",
+        "slug": "shpl",
+        "lat": 38.5079,
+        "lng": -122.4696,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St. Albert Public Library",
+        "slug": "stalbert",
+        "lat": 53.63,
+        "lng": -113.625,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St. Charles District Library",
+        "slug": "stc",
+        "lat": 38.7840,
+        "lng": -90.6010,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St. Joseph County Public Library",
+        "slug": "sjcpl",
+        "lat": 41.6733,
+        "lng": -86.2515,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St. Louis Public Library - City",
+        "slug": "slpl",
+        "lat": 38.6570,
+        "lng": -90.3093,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St. Marys Public Library",
+        "slug": "stmarys",
+        "lat": 30.7414,
+        "lng": -81.5526,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St. Tammany Parish Library",
+        "slug": "stpl",
+        "lat": 30.4465,
+        "lng": -90.0904,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "St. Thomas Public Library",
+        "slug": "stthomas",
+        "lat": 42.777,
+        "lng": -81.1839,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Stark Library",
+        "slug": "starklibrary",
+        "lat": 40.8034,
+        "lng": -81.3736,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Stavely Municipal Library",
+        "slug": "stavely",
+        "lat": 50.158129,
+        "lng": -113.637984,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Stouffville Library",
+        "slug": "wsplibrary",
+        "lat": 43.9669,
+        "lng": -79.2443,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Stratford Public Library",
+        "slug": "spl",
+        "lat": 43.37,
+        "lng": -80.981,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Strathcona County Library",
+        "slug": "scl",
+        "lat": 53.55,
+        "lng": -113.4,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Sunnyvale Public Library",
+        "slug": "sunnyvale",
+        "lat": 37.3719,
+        "lng": -122.0391,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Surrey Libraries",
+        "slug": "surrey",
+        "lat": 49.1913,
+        "lng": -122.849,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Taber Public Library",
+        "slug": "taber",
+        "lat": 30.2802,
+        "lng": -82.1221,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Tacoma Public Library",
+        "slug": "tacoma",
+        "lat": 47.2524,
+        "lng": -122.4448,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Tamarack District Library",
+        "slug": "tamarack",
+        "lat": 43.4389,
+        "lng": -85.2729,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Indianapolis Public Library",
+        "slug": "indypl",
+        "lat": 39.778512,
+        "lng": -86.15673,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Kansas City Public Library",
+        "slug": "kclibrary",
+        "lat": 39.071751,
+        "lng": -94.552252,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "The Seattle Public Library",
+        "slug": "seattle",
+        "lat": 47.6067,
+        "lng": -122.3327,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Theodore Brandley Municipal Library",
+        "slug": "stirling",
+        "lat": 49.501771,
+        "lng": -112.520257,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Thunder Bay Public Library",
+        "slug": "tbaypl",
+        "lat": 48.3809,
+        "lng": -89.2477,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Timberland Regional Library",
+        "slug": "timberland",
+        "lat": 46.7162,
+        "lng": -122.9568,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Timothy C. Hauenstein Reynolds Township Library",
+        "slug": "tchreynolds",
+        "lat": 42.9634,
+        "lng": -85.6681,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Toledo Library",
+        "slug": "toledo",
+        "lat": 41.6547,
+        "lng": -83.5403,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Topeka & Shawnee County Public Library",
+        "slug": "tscpl",
+        "lat": 39.0507,
+        "lng": -95.6966,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Town of Fort Macleod Public Library",
+        "slug": "fortmacleod",
+        "lat": 49.7167,
+        "lng": -113.3833,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Trail & District Public Library",
+        "slug": "traillibrary",
+        "lat": 49.0948,
+        "lng": -117.7060,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Trent Hills Public Library",
+        "slug": "trenthills",
+        "lat": 44.3,
+        "lng": -77.5,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Troy-Miami County Public Library",
+        "slug": "troy-miami",
+        "lat": 40.0418,
+        "lng": -84.2073,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Vancouver Public Library",
+        "slug": "vpl",
+        "lat": 49.2827,
+        "lng": -123.1207,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Vaughan Public Libraries",
+        "slug": "vaughanpl",
+        "lat": 43.7956,
+        "lng": -79.5289,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Vauxhall Public Library",
+        "slug": "vauxhall",
+        "lat": 50.0684,
+        "lng": -112.1062,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Vernon Area Public Library District",
+        "slug": "vapld",
+        "lat": 42.1056,
+        "lng": -87.9375,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Vulcan Library",
+        "slug": "vulcan",
+        "lat": 50.4028,
+        "lng": -113.2636,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Warner Memorial Library",
+        "slug": "warner",
+        "lat": 47.2645,
+        "lng": -122.4817,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Warren County Public Library",
+        "slug": "wcpl",
+        "lat": 36.9898,
+        "lng": -86.4457,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Warren-Newport Public Library",
+        "slug": "wnpl",
+        "lat": 42.3632,
+        "lng": -87.9153,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Washington County Cooperative Library Services",
+        "slug": "wccls",
+        "lat": 45.4813,
+        "lng": -122.8585,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Wauconda Area Public Library",
+        "slug": "wauclib",
+        "lat": 42.2028,
+        "lng": -88.1364,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Waukegan Public Library",
+        "slug": "waukeganpl",
+        "lat": 42.3619,
+        "lng": -87.8332,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Wellington County Library",
+        "slug": "wellington",
+        "lat": 43.6934,
+        "lng": -80.3987,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "West Branch District Library",
+        "slug": "wbr",
+        "lat": 44.2768,
+        "lng": -84.2403,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "West Perth Public Library",
+        "slug": "wppl",
+        "lat": 43.4662,
+        "lng": -81.1965,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "West Vancouver Memorial Library",
+        "slug": "westvanlibrary",
+        "lat": 49.328,
+        "lng": -123.159,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Western Counties Regional Library",
+        "slug": "samepagewcrl",
+        "lat": 44.409614,
+        "lng": -65.997187,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Westerville Public Library",
+        "slug": "westervillelibrary",
+        "lat": 40.1262,
+        "lng": -82.9291,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Whatcom County Library System",
+        "slug": "wcls",
+        "lat": 48.75,
+        "lng": -122.48,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Whistler Public Library",
+        "slug": "whistler",
+        "lat": 50.1175,
+        "lng": -122.9563,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "White Cloud Community Library",
+        "slug": "whitecloud",
+        "lat": 43.4442,
+        "lng": -85.8881,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "White Lake Community Library",
+        "slug": "whitelake",
+        "lat": 43.3866,
+        "lng": -86.3434,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Wilmette Public Library",
+        "slug": "wilmettelibrary",
+        "lat": 42.0751,
+        "lng": -87.7092,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Winnetka-Northfield Public Library District",
+        "slug": "wnpld",
+        "lat": 42.1044,
+        "lng": -87.7327,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Wood Buffalo Regional Library",
+        "slug": "wbrl",
+        "lat": 57.1522,
+        "lng": -111.6717,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Woodstock Public Library",
+        "slug": "woodstock",
+        "lat": 43.1333,
+        "lng": -80.7333,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Wrentham Public Library",
+        "slug": "wrentham",
+        "lat": 49.51359,
+        "lng": -112.177521,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Yarra Plenty Regional Library",
+        "slug": "yprl",
+        "lat": -37.3659,
+        "lng": 145.1347,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Yorba Linda Public Library",
+        "slug": "ylpl",
+        "lat": 33.8886,
+        "lng": -117.8131,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Yuma County Library",
+        "slug": "yumalibrary",
+        "lat": 32.6739,
+        "lng": -114.6243,
+        "lib": "bibliocommons"
+    },
+    {
+        "name": "Zion-Benton Public Library",
+        "slug": "zbpl",
+        "lat": 42.451,
+        "lng": -87.8445,
+        "lib": "bibliocommons"
+    }
+]
