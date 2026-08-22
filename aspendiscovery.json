@@ -18,6 +18,24 @@
         "postal_code": "L1S 2H9"
     },
     {
+        "name": "Akron-Summit County Public Library",
+        "slug": "akron",
+        "lib": "aspendiscovery",
+        "domain": "https://ascpl.aspendiscovery.org/",
+        "lat": 41.0814,
+        "lng": -81.5190,
+        "postal_code": "44308"
+    },
+    {
+        "name": "Alachua County Library District",
+        "slug": "alachua",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.aclib.us/",
+        "lat": 29.6516,
+        "lng": -82.3248,
+        "postal_code": "32601"
+    },
+    {
         "name": "Amador County Library",
         "slug": "amadorlibrary",
         "lat": 38.3500,
@@ -54,6 +72,24 @@
         "postal_code": "75409"
     },
     {
+        "name": "Anne Arundel County Public Library",
+        "slug": "aacpl",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.aacpl.net/",
+        "lat": 38.9784,
+        "lng": -76.4922,
+        "postal_code": "21401"
+    },
+    {
+        "name": "Anoka County Library System",
+        "slug": "anoka",
+        "lib": "aspendiscovery",
+        "domain": "https://anoka.aspendiscovery.org/",
+        "lat": 45.1608,
+        "lng": -93.1510,
+        "postal_code": "55434"
+    },
+    {
         "name": "Aquinnah Public Library",
         "slug": "aquinnah",
         "lat": 41.3800,
@@ -72,6 +108,24 @@
         "postal_code": "91006"
     },
     {
+        "name": "Arlington Public Library",
+        "slug": "arlingtonva",
+        "lib": "aspendiscovery",
+        "domain": "https://libcat.arlingtonva.us/",
+        "lat": 38.8816,
+        "lng": -77.0910,
+        "postal_code": "22201"
+    },
+    {
+        "name": "Athens County Public Libraries",
+        "slug": "athenscounty",
+        "lib": "aspendiscovery",
+        "domain": "https://athenscounty.aspendiscovery.org/",
+        "lat": 39.3292,
+        "lng": -82.1013,
+        "postal_code": "45701"
+    },
+    {
         "name": "Atlantic City Public Library",
         "slug": "acfpl",
         "lat": 39.3643,
@@ -79,6 +133,15 @@
         "lib": "aspendiscovery",
         "domain": "https://acfpl.aspendiscovery.org/",
         "postal_code": "08401"
+    },
+    {
+        "name": "Atlantic County Library System",
+        "slug": "atlantic",
+        "lib": "aspendiscovery",
+        "domain": "https://atlanticlibrary.aspendiscovery.org/",
+        "lat": 39.4521,
+        "lng": -74.7277,
+        "postal_code": "08330"
     },
     {
         "name": "Avalon Free Public Library",
@@ -144,6 +207,24 @@
         "postal_code": "02631"
     },
     {
+        "name": "Calaveras County Library",
+        "slug": "calaveras",
+        "lib": "aspendiscovery",
+        "domain": "https://calaveras.aspendiscovery.org/",
+        "lat": 38.1960,
+        "lng": -120.6802,
+        "postal_code": "95249"
+    },
+    {
+        "name": "Capital Area District Libraries",
+        "slug": "cadl",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.cadl.org/",
+        "lat": 42.7325,
+        "lng": -84.5555,
+        "postal_code": "48933"
+    },
+    {
         "name": "Carnegie-Stout Public Library",
         "slug": "carnegiestout",
         "lat": 42.5000,
@@ -169,6 +250,15 @@
         "lib": "aspendiscovery",
         "domain": "https://library.cityofcarrollton.com/",
         "postal_code": "75006"
+    },
+    {
+        "name": "Catamount Library Network",
+        "slug": "catamount",
+        "lib": "aspendiscovery",
+        "domain": "https://catamount.aspendiscovery.org/",
+        "lat": 44.5588,
+        "lng": -72.5778,
+        "postal_code": "05641"
     },
     {
         "name": "Cedar Falls Public Library",
@@ -207,6 +297,15 @@
         "postal_code": "67401"
     },
     {
+        "name": "Charleston Library Society",
+        "slug": "clssc",
+        "lat": 32.7765,
+        "lng": -79.9311,
+        "lib": "aspendiscovery",
+        "domain": "https://clssc.aspendiscovery.org/",
+        "postal_code": "29401"
+    },
+    {
         "name": "Chatham Eldredge Public Library",
         "slug": "chatham-eldredge",
         "lat": 41.6800,
@@ -214,6 +313,24 @@
         "lib": "aspendiscovery",
         "domain": "https://chatham-eldredge.clamsnet.org/",
         "postal_code": "02633"
+    },
+    {
+        "name": "Chattanooga Public Library",
+        "slug": "chattanooga",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.chattlibrary.org/",
+        "lat": 35.0456,
+        "lng": -85.3097,
+        "postal_code": "37402"
+    },
+    {
+        "name": "Chesapeake Public Library",
+        "slug": "chesapeake",
+        "lib": "aspendiscovery",
+        "domain": "https://chesapeake.aspendiscovery.org/",
+        "lat": 36.7183,
+        "lng": -76.2467,
+        "postal_code": "23320"
     },
     {
         "name": "Chilmark Free Public Library",
@@ -225,6 +342,114 @@
         "postal_code": "02535"
     },
     {
+        "name": "Chinook Library Network",
+        "slug": "chinook",
+        "lib": "aspendiscovery",
+        "domain": "https://chinooklibraries.aspendiscovery.org/",
+        "lat": 45.5235,
+        "lng": -122.6764,
+        "postal_code": "97204"
+    },
+    {
+        "name": "Citrus Libraries",
+        "slug": "citrus",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.citruslibraries.org/",
+        "lat": 28.9012,
+        "lng": -82.4587,
+        "postal_code": "34465"
+    },
+    {
+        "name": "City of Orange Public Library",
+        "slug": "orange",
+        "lib": "aspendiscovery",
+        "domain": "https://copl.aspendiscovery.org/",
+        "lat": 33.7879,
+        "lng": -117.8531,
+        "postal_code": "92866"
+    },
+    {
+        "name": "CLEVNET Library Cooperation",
+        "slug": "clevnet",
+        "lib": "aspendiscovery",
+        "domain": "https://search.clevnet.org/",
+        "lat": 41.4993,
+        "lng": -81.6944,
+        "postal_code": "44114"
+    },
+    {
+        "name": "Coastline Library Network",
+        "slug": "coastline",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.coastlinelibraries.org/",
+        "lat": 44.0582,
+        "lng": -121.3153,
+        "postal_code": "97701"
+    },
+    {
+        "name": "Collierville Burch Library",
+        "slug": "collierville",
+        "lat": 35.0000,
+        "lng": -89.7000,
+        "lib": "aspendiscovery",
+        "domain": "https://collierville.aspendiscovery.org/",
+        "postal_code": "38017"
+    },
+    {
+        "name": "The Colony Public Library",
+        "slug": "thecolony",
+        "lib": "aspendiscovery",
+        "domain": "https://tcpl.aspendiscovery.org/",
+        "lat": 33.0890,
+        "lng": -96.8864,
+        "postal_code": "75056"
+    },
+    {
+        "name": "Colorado Library Consortium (CLiC)",
+        "slug": "clic",
+        "lib": "aspendiscovery",
+        "domain": "https://www.clicweb.org/",
+        "lat": 39.6112,
+        "lng": -104.9010,
+        "postal_code": "80112"
+    },
+    {
+        "name": "Columbia County Public Library",
+        "slug": "columbia",
+        "lib": "aspendiscovery",
+        "domain": "https://ccpl.aspendiscovery.org/",
+        "lat": 30.1897,
+        "lng": -82.6393,
+        "postal_code": "32055"
+    },
+    {
+        "name": "CORAL (Consortium of Rockingham Area Libraries)",
+        "slug": "coral",
+        "lib": "aspendiscovery",
+        "domain": "https://rockingham.aspendiscovery.org/",
+        "lat": 42.8806,
+        "lng": -71.3267,
+        "postal_code": "03038"
+    },
+    {
+        "name": "Corona Public Library",
+        "slug": "corona",
+        "lat": 33.8753,
+        "lng": -117.5664,
+        "lib": "aspendiscovery",
+        "domain": "https://corona.aspendiscovery.org/",
+        "postal_code": "92879"
+    },
+    {
+        "name": "Corvallis-Benton County Public Library",
+        "slug": "corvallis",
+        "lib": "aspendiscovery",
+        "domain": "https://corvallis.aspendiscovery.org/",
+        "lat": 44.5646,
+        "lng": -123.2620,
+        "postal_code": "97330"
+    },
+    {
         "name": "Cotuit Library",
         "slug": "cotuit",
         "lat": 41.6500,
@@ -232,6 +457,60 @@
         "lib": "aspendiscovery",
         "domain": "https://cotuit.clamsnet.org/",
         "postal_code": "02635"
+    },
+    {
+        "name": "Crawford County Federated Library System",
+        "slug": "ccfls",
+        "lib": "aspendiscovery",
+        "domain": "https://ccfls.org/",
+        "lat": 41.6470,
+        "lng": -80.1514,
+        "postal_code": "16335"
+    },
+    {
+        "name": "Curtis Memorial Library",
+        "slug": "curtis",
+        "lat": 43.9000,
+        "lng": -69.9500,
+        "lib": "aspendiscovery",
+        "domain": "https://curtislibrary.aspendiscovery.org/",
+        "postal_code": "04011"
+    },
+    {
+        "name": "Cuyahoga County Public Library (Parma)",
+        "slug": "cuyahoga",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.cuyahogalibrary.org/",
+        "lat": 41.4040,
+        "lng": -81.7228,
+        "postal_code": "44134"
+    },
+    {
+        "name": "Cuyahoga Falls Library",
+        "slug": "cuyahogafalls",
+        "lat": 41.1333,
+        "lng": -81.4833,
+        "lib": "aspendiscovery",
+        "domain": "https://fallslibrary.aspendiscovery.org/",
+        "postal_code": "44221"
+    },
+    {
+        "name": "Darien Library",
+        "slug": "darien",
+        "lib": "aspendiscovery",
+        "domain": "https://www.darienlibrary.org/",
+        "lat": 41.0780,
+        "lng": -73.4697,
+        "postal_code": "06820"
+    },
+    {
+        "name": "Deerfield Public Library",
+        "slug": "deerfield",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.deerfieldlibrary.org/",
+        "lat": 42.1711,
+        "lng": -87.8445,
+        "postal_code": "60015"
     },
     {
         "name": "Dennis Memorial Library",
@@ -261,6 +540,15 @@
         "postal_code": "50309"
     },
     {
+        "name": "Dothan Houston County Library System",
+        "slug": "dothan",
+        "lib": "aspendiscovery",
+        "domain": "https://dhcls.aspendiscovery.org/",
+        "lat": 31.2232,
+        "lng": -85.3905,
+        "postal_code": "36301"
+    },
+    {
         "name": "Dubuque County Library District",
         "slug": "dubuquecountylibrarydistrict",
         "lat": 42.5000,
@@ -268,6 +556,105 @@
         "lib": "aspendiscovery",
         "domain": "https://catalog.dubcolib.org/",
         "postal_code": "52001"
+    },
+    {
+        "name": "Duchesne County Library System",
+        "slug": "duchesne",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.duchesnelibraries.org/",
+        "lat": 40.1630,
+        "lng": -110.4024,
+        "postal_code": "84021"
+    },
+    {
+        "name": "East Central Regional Library",
+        "slug": "ecrl",
+        "lib": "aspendiscovery",
+        "domain": "https://discovery.ecrlib.org/",
+        "lat": 45.5650,
+        "lng": -93.5780,
+        "postal_code": "55008"
+    },
+    {
+        "name": "East Dennis Jacob Sears Memorial Library",
+        "slug": "eastdennis",
+        "lib": "aspendiscovery",
+        "domain": "https://east-dennis.clamsnet.org/",
+        "lat": 41.7410,
+        "lng": -70.1590,
+        "postal_code": "02641"
+    },
+    {
+        "name": "Eastham Public Library",
+        "slug": "eastham",
+        "lib": "aspendiscovery",
+        "domain": "https://eastham.clamsnet.org/",
+        "lat": 41.8415,
+        "lng": -69.9695,
+        "postal_code": "02642"
+    },
+    {
+        "name": "Edgartown Public Library",
+        "slug": "edgartown",
+        "lib": "aspendiscovery",
+        "domain": "https://edgartown.clamsnet.org/",
+        "lat": 41.3890,
+        "lng": -70.5130,
+        "postal_code": "02539"
+    },
+    {
+        "name": "El Dorado County Library",
+        "slug": "eldorado",
+        "lib": "aspendiscovery",
+        "domain": "https://edcl.aspendiscovery.org/",
+        "lat": 38.7296,
+        "lng": -120.7980,
+        "postal_code": "95667"
+    },
+    {
+        "name": "Elmhurst Public Library",
+        "slug": "elmhurst",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.elmhurstpubliclibrary.org/",
+        "lat": 41.8995,
+        "lng": -87.9403,
+        "postal_code": "60126"
+    },
+    {
+        "name": "El Paso County Digital Library",
+        "slug": "epcounty",
+        "lib": "aspendiscovery",
+        "domain": "https://epcounty.aspendiscovery.org/",
+        "lat": 31.7776,
+        "lng": -106.4424,
+        "postal_code": "79901"
+    },
+    {
+        "name": "Emporia Public Library",
+        "slug": "emporia",
+        "lib": "aspendiscovery",
+        "domain": "https://emporia.aspendiscovery.org/",
+        "lat": 38.4080,
+        "lng": -96.1870,
+        "postal_code": "66801"
+    },
+    {
+        "name": "Euless Public Library",
+        "slug": "euless",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.eulesstx.gov/",
+        "lat": 32.8371,
+        "lng": -97.0810,
+        "postal_code": "76039"
+    },
+    {
+        "name": "Evansville Vanderburgh Public Library",
+        "slug": "evpl",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.evpl.org/",
+        "lat": 37.9716,
+        "lng": -87.5711,
+        "postal_code": "47708"
     },
     {
         "name": "Exeter Public Library",
@@ -279,6 +666,69 @@
         "postal_code": "02822"
     },
     {
+        "name": "Fairfield Public Library",
+        "slug": "fairfield",
+        "lib": "aspendiscovery",
+        "domain": "https://fplct.aspendiscovery.org/",
+        "lat": 41.1408,
+        "lng": -73.2613,
+        "postal_code": "06824"
+    },
+    {
+        "name": "Falmouth Public Library",
+        "slug": "falmouth",
+        "lib": "aspendiscovery",
+        "domain": "https://falmouth-public.clamsnet.org/",
+        "lat": 41.5515,
+        "lng": -70.6143,
+        "postal_code": "02540"
+    },
+    {
+        "name": "Fayetteville Public Library",
+        "slug": "fayetteville",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.faylib.org/",
+        "lat": 36.0626,
+        "lng": -94.1574,
+        "postal_code": "72701"
+    },
+    {
+        "name": "Flagstaff City Coconino County Public Library",
+        "slug": "flagstaff",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.flagstaffpubliclibrary.org/",
+        "lat": 35.1983,
+        "lng": -111.6513,
+        "postal_code": "86001"
+    },
+    {
+        "name": "Flower Mound Public Library",
+        "slug": "flowermound",
+        "lib": "aspendiscovery",
+        "domain": "https://flowermound.aspendiscovery.org/",
+        "lat": 33.0146,
+        "lng": -97.0969,
+        "postal_code": "75028"
+    },
+    {
+        "name": "Franklin County Libraries",
+        "slug": "franklincounty",
+        "lib": "aspendiscovery",
+        "domain": "https://discovery.fclspa.org/",
+        "lat": 39.7933,
+        "lng": -77.5828,
+        "postal_code": "17201"
+    },
+    {
+        "name": "Gail Borden Public Library District",
+        "slug": "gailborden",
+        "lib": "aspendiscovery",
+        "domain": "https://gailborden.aspendiscovery.org/",
+        "lat": 42.0354,
+        "lng": -88.2820,
+        "postal_code": "60120"
+    },
+    {
         "name": "Goleta & Santa Ynez Valley Libraries",
         "slug": "gvl",
         "lat": 34.4358,
@@ -288,40 +738,166 @@
         "postal_code": "93117"
     },
     {
-        "name": "Lompoc Public Library System",
-        "slug": "lom",
-        "lat": 34.6391,
-        "lng": -120.4579,
-        "lib": "aspendiscovery",
-        "domain": "https://lom.blackgold.org/",
-        "postal_code": "93436"
-    },
-    {
-        "name": "Paso Robles City Library",
-        "slug": "pro",
-        "lat": 35.6266,
-        "lng": -120.6910,
-        "lib": "aspendiscovery",
-        "domain": "https://pro.blackgold.org/",
-        "postal_code": "93446"
-    },
-    {
-        "name": "Santa Maria Public Library",
-        "slug": "sm",
-        "lat": 34.9530,
-        "lng": -120.4357,
-        "lib": "aspendiscovery",
-        "domain": "https://sm.blackgold.org/",
-        "postal_code": "93454"
-    },
-    {
         "name": "Grand County Public Library",
-        "slug": "grandcounty",
-        "lat": 35.5736,
-        "lng": -109.5457,
+        "slug": "moab",
         "lib": "aspendiscovery",
         "domain": "https://catalog.moablibrary.org/",
+        "lat": 38.5739,
+        "lng": -109.5498,
         "postal_code": "84532"
+    },
+    {
+        "name": "Grapevine Public Library",
+        "slug": "grapevine",
+        "lib": "aspendiscovery",
+        "domain": "https://grapevine.aspendiscovery.org/",
+        "lat": 32.9343,
+        "lng": -97.0781,
+        "postal_code": "76051"
+    },
+    {
+        "name": "Greater Manchester Integrated Library Consortial System (GMILCS)",
+        "slug": "gmilcs",
+        "lib": "aspendiscovery",
+        "domain": "https://www.gmilcs.org/",
+        "lat": 43.0340,
+        "lng": -71.4480,
+        "postal_code": "03106"
+    },
+    {
+        "name": "Greenville County Library System",
+        "slug": "greenville",
+        "lib": "aspendiscovery",
+        "domain": "https://aspen.greenvillelibrary.org/",
+        "lat": 34.8526,
+        "lng": -82.3940,
+        "postal_code": "29601"
+    },
+    {
+        "name": "Haddonfield Public Library",
+        "slug": "haddonfield",
+        "lib": "aspendiscovery",
+        "domain": "https://haddonfield.aspendiscovery.org/",
+        "lat": 39.8915,
+        "lng": -75.0377,
+        "postal_code": "08033"
+    },
+    {
+        "name": "Hailey Public Library",
+        "slug": "hailey",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.haileypubliclibrary.org/",
+        "lat": 43.5196,
+        "lng": -114.3153,
+        "postal_code": "83333"
+    },
+    {
+        "name": "Hamilton East Public Library",
+        "slug": "hamiltoneast",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog-hamiltoneastpl.org/",
+        "lat": 40.0456,
+        "lng": -86.0086,
+        "postal_code": "46060"
+    },
+    {
+        "name": "Hampton Public Library",
+        "slug": "hampton",
+        "lib": "aspendiscovery",
+        "domain": "https://hamptonva.aspendiscovery.org/",
+        "lat": 37.0299,
+        "lng": -76.3452,
+        "postal_code": "23669"
+    },
+    {
+        "name": "Harwich Brooks Free Library",
+        "slug": "harwich",
+        "lib": "aspendiscovery",
+        "domain": "https://harwich-brooks.clamsnet.org/",
+        "lat": 41.6862,
+        "lng": -70.0750,
+        "postal_code": "02645"
+    },
+    {
+        "name": "Helen Plum Public Library",
+        "slug": "helenplum",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.helenplum.org/",
+        "lat": 41.8800,
+        "lng": -88.0150,
+        "postal_code": "60148"
+    },
+    {
+        "name": "Henry Carter Hull Library",
+        "slug": "hchlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.hchlibrary.org/",
+        "lat": 41.2784,
+        "lng": -72.5270,
+        "postal_code": "06413"
+    },
+    {
+        "name": "Hernando County Public Library",
+        "slug": "hernando",
+        "lib": "aspendiscovery",
+        "domain": "http://catalog.hcpl.bywatersolutions.com/",
+        "lat": 28.5550,
+        "lng": -82.3879,
+        "postal_code": "34601"
+    },
+    {
+        "name": "Howell Carnegie District Library",
+        "slug": "howell",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.howelllibrary.org/",
+        "lat": 42.6073,
+        "lng": -83.9294,
+        "postal_code": "48843"
+    },
+    {
+        "name": "Huntsville-Madison County Public Library",
+        "slug": "huntsville",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.hmcpl.org/",
+        "lat": 34.7304,
+        "lng": -86.5861,
+        "postal_code": "35801"
+    },
+    {
+        "name": "Hyannis Public Library",
+        "slug": "hyannis",
+        "lib": "aspendiscovery",
+        "domain": "https://hyannis.clamsnet.org/",
+        "lat": 41.6525,
+        "lng": -70.2828,
+        "postal_code": "02601"
+    },
+    {
+        "name": "Illinois Heartland Library System",
+        "slug": "illinoisheartland",
+        "lib": "aspendiscovery",
+        "domain": "https://share.aspendiscovery.org/",
+        "lat": 39.7817,
+        "lng": -89.6501,
+        "postal_code": "62701"
+    },
+    {
+        "name": "Iowa City Public Library",
+        "slug": "iowacity",
+        "lib": "aspendiscovery",
+        "domain": "https://icpl.aspendiscovery.org/",
+        "lat": 41.6611,
+        "lng": -91.5302,
+        "postal_code": "52240"
+    },
+    {
+        "name": "Jackson County Library Services",
+        "slug": "jacksoncounty",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.jcls.org/",
+        "lat": 42.3265,
+        "lng": -122.8756,
+        "postal_code": "97501"
     },
     {
         "name": "Jonathan Bourne Library",
@@ -333,6 +909,69 @@
         "postal_code": "02532"
     },
     {
+        "name": "Jones Memorial Library",
+        "slug": "jmlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://jmlibrary.aspendiscovery.org/",
+        "lat": 37.4138,
+        "lng": -79.1423,
+        "postal_code": "24504"
+    },
+    {
+        "name": "Kanawha County Public Library",
+        "slug": "kcpls",
+        "lib": "aspendiscovery",
+        "domain": "https://kcpls.aspendiscovery.org/",
+        "lat": 38.3498,
+        "lng": -81.6326,
+        "postal_code": "25301"
+    },
+    {
+        "name": "Knox County Public Library",
+        "slug": "knoxcounty",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.knoxcountylibrary.org/",
+        "lat": 35.9606,
+        "lng": -83.9207,
+        "postal_code": "37902"
+    },
+    {
+        "name": "La Porte County Public Library",
+        "slug": "laporte",
+        "lib": "aspendiscovery",
+        "domain": "https://laportelibrary.aspendiscovery.org/",
+        "lat": 41.6106,
+        "lng": -86.7225,
+        "postal_code": "46350"
+    },
+    {
+        "name": "Lebanon Public Libraries",
+        "slug": "lebanon",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.leblibrary.com/",
+        "lat": 43.6491,
+        "lng": -72.3090,
+        "postal_code": "03784"
+    },
+    {
+        "name": "Linwood Public Library",
+        "slug": "linwood",
+        "lib": "aspendiscovery",
+        "domain": "https://linwoodlibrary.aspendiscovery.org/",
+        "lat": 39.3482,
+        "lng": -74.5754,
+        "postal_code": "08221"
+    },
+    {
+        "name": "Lisle District Library",
+        "slug": "lisle",
+        "lib": "aspendiscovery",
+        "domain": "https://discovercatalog.lislelibrary.org/",
+        "lat": 41.7940,
+        "lng": -88.0887,
+        "postal_code": "60532"
+    },
+    {
         "name": "Lompoc Public Library System",
         "slug": "lom",
         "lat": 34.6391,
@@ -342,13 +981,58 @@
         "postal_code": "93436"
     },
     {
-        "name": "Los Gatos Public Library",
-        "slug": "losgatoslibrary",
-        "lat": 37.2358,
-        "lng": -121.9624,
+        "name": "Los Gatos Library",
+        "slug": "losgatos",
         "lib": "aspendiscovery",
         "domain": "https://losgatos.aspendiscovery.org/",
+        "lat": 37.2358,
+        "lng": -121.9624,
         "postal_code": "95030"
+    },
+    {
+        "name": "Luzerne County Library System",
+        "slug": "luzerne",
+        "lib": "aspendiscovery",
+        "domain": "https://luzernelibraries.org/",
+        "lat": 41.2459,
+        "lng": -75.8813,
+        "postal_code": "18701"
+    },
+    {
+        "name": "Mansfield/Richland County Public Library",
+        "slug": "mansfield",
+        "lib": "aspendiscovery",
+        "domain": "https://mrcpl.aspendiscovery.org/",
+        "lat": 40.7584,
+        "lng": -82.5154,
+        "postal_code": "44902"
+    },
+    {
+        "name": "Marion County Public Library System",
+        "slug": "marioncounty",
+        "lib": "aspendiscovery",
+        "domain": "https://librarycat.marionfl.org/",
+        "lat": 29.1872,
+        "lng": -82.1401,
+        "postal_code": "34471"
+    },
+    {
+        "name": "Marstons Mills Public Library",
+        "slug": "marstonsmills",
+        "lib": "aspendiscovery",
+        "domain": "https://marstons-mills.clamsnet.org/",
+        "lat": 41.6534,
+        "lng": -70.4131,
+        "postal_code": "02648"
+    },
+    {
+        "name": "Mashpee Public Library",
+        "slug": "mashpee",
+        "lib": "aspendiscovery",
+        "domain": "https://mashpee.clamsnet.org/",
+        "lat": 41.6484,
+        "lng": -70.4811,
+        "postal_code": "02649"
     },
     {
         "name": "McKinney Public Library",
@@ -360,6 +1044,15 @@
         "postal_code": "75069"
     },
     {
+        "name": "Melissa Public Library",
+        "slug": "melissa",
+        "lib": "aspendiscovery",
+        "domain": "https://melissapl.aspendiscovery.org/",
+        "lat": 33.2850,
+        "lng": -96.5725,
+        "postal_code": "75454"
+    },
+    {
         "name": "Metropolitan Library System (OK)",
         "slug": "metrolibrary",
         "lat": 35.4676,
@@ -367,6 +1060,24 @@
         "lib": "aspendiscovery",
         "domain": "https://catalog.metrolibrary.org/",
         "postal_code": "73102"
+    },
+    {
+        "name": "Midlothian Public Library",
+        "slug": "midlothian",
+        "lib": "aspendiscovery",
+        "domain": "https://midlothian.aspendiscovery.org/",
+        "lat": 32.4824,
+        "lng": -96.9944,
+        "postal_code": "76065"
+    },
+    {
+        "name": "Milwaukee County Federated Library System",
+        "slug": "mcfls",
+        "lib": "aspendiscovery",
+        "domain": "https://countycat.mcfls.org/",
+        "lat": 43.0389,
+        "lng": -87.9065,
+        "postal_code": "53202"
     },
     {
         "name": "Mohave County Library",
@@ -387,13 +1098,193 @@
         "postal_code": "93940"
     },
     {
+        "name": "Montgomery County Public Library",
+        "slug": "montgomery",
+        "lib": "aspendiscovery",
+        "domain": "https://mcpl.aspendiscovery.org/",
+        "lat": 39.0830,
+        "lng": -77.1528,
+        "postal_code": "20850"
+    },
+    {
+        "name": "Moultonborough Public Library",
+        "slug": "moultonborough",
+        "lib": "aspendiscovery",
+        "domain": "https://moultonborough.aspendiscovery.org/",
+        "lat": 43.7545,
+        "lng": -71.2748,
+        "postal_code": "03254"
+    },
+    {
+        "name": "Nantucket Atheneum Library",
+        "slug": "nantucket",
+        "lib": "aspendiscovery",
+        "domain": "https://nantucket-atheneum.clamsnet.org/",
+        "lat": 41.2835,
+        "lng": -70.0995,
+        "postal_code": "02554"
+    },
+    {
+        "name": "Neill Public Library",
+        "slug": "neill",
+        "lib": "aspendiscovery",
+        "domain": "https://search.neill-lib.org/",
+        "lat": 46.7298,
+        "lng": -117.1817,
+        "postal_code": "99163"
+    },
+    {
+        "name": "Nevada Library Cooperative",
+        "slug": "nvcoop",
+        "lib": "aspendiscovery",
+        "domain": "https://nvcoop.aspendiscovery.org/",
+        "lat": 39.1638,
+        "lng": -119.7674,
+        "postal_code": "89701"
+    },
+    {
+        "name": "Newport News Public Library",
+        "slug": "newportnews",
+        "lib": "aspendiscovery",
+        "domain": "https://nnpl.aspendiscovery.org/",
+        "lat": 37.0871,
+        "lng": -76.4730,
+        "postal_code": "23607"
+    },
+    {
+        "name": "Nisqually Tribal Library",
+        "slug": "nisqually",
+        "lib": "aspendiscovery",
+        "domain": "https://nisqually.aspendiscovery.org/",
+        "lat": 47.0150,
+        "lng": -122.6730,
+        "postal_code": "98513"
+    },
+    {
+        "name": "Norfolk Public Library",
+        "slug": "norfolk",
+        "lib": "aspendiscovery",
+        "domain": "https://norfolk.aspendiscovery.org/",
+        "lat": 42.0320,
+        "lng": -97.4290,
+        "postal_code": "68701"
+    },
+    {
         "name": "North Logan City Library",
-        "slug": "northloganlibrary",
-        "lat": 41.7436,
-        "lng": -111.8310,
+        "slug": "northlogan",
         "lib": "aspendiscovery",
         "domain": "https://catalog.northloganlibrary.org/",
+        "lat": 41.7694,
+        "lng": -111.8044,
         "postal_code": "84341"
+    },
+    {
+        "name": "North Miami Beach Public Library",
+        "slug": "northmiamibeach",
+        "lib": "aspendiscovery",
+        "domain": "https://nmblib.aspendiscovery.org/",
+        "lat": 25.9332,
+        "lng": -80.1620,
+        "postal_code": "33162"
+    },
+    {
+        "name": "North Olympic Library System",
+        "slug": "nols",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.nols.org/",
+        "lat": 48.1180,
+        "lng": -123.4307,
+        "postal_code": "98362"
+    },
+    {
+        "name": "Northeast Kansas Library System (NEKLS)",
+        "slug": "nekls",
+        "lib": "aspendiscovery",
+        "domain": "https://nextkansas.org/",
+        "lat": 38.9717,
+        "lng": -95.2353,
+        "postal_code": "66044"
+    },
+    {
+        "name": "North Central Washington Libraries (NCW)",
+        "slug": "ncw",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.ncwlibraries.org/",
+        "lat": 47.4235,
+        "lng": -120.3103,
+        "postal_code": "98801"
+    },
+    {
+        "name": "Northern New Hampshire Library Cooperative (NNHLC)",
+        "slug": "nnhlc",
+        "lib": "aspendiscovery",
+        "domain": "https://nnhlc.aspendiscovery.org/",
+        "lat": 44.3040,
+        "lng": -71.5360,
+        "postal_code": "03570"
+    },
+    {
+        "name": "Oak Bluffs Public Library",
+        "slug": "oakbluffs",
+        "lib": "aspendiscovery",
+        "domain": "https://oak-bluffs.clamsnet.org/",
+        "lat": 41.4562,
+        "lng": -70.5584,
+        "postal_code": "02557"
+    },
+    {
+        "name": "Ocean State Libraries",
+        "slug": "oslri",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.oslri.net/",
+        "lat": 41.8236,
+        "lng": -71.4222,
+        "postal_code": "02903"
+    },
+    {
+        "name": "Okaloosa County Public Library Cooperative",
+        "slug": "okaloosa",
+        "lib": "aspendiscovery",
+        "domain": "https://okaloosa.aspendiscovery.org/",
+        "lat": 30.4200,
+        "lng": -86.6170,
+        "postal_code": "32548"
+    },
+    {
+        "name": "Orleans Snow Library",
+        "slug": "orleans",
+        "lib": "aspendiscovery",
+        "domain": "https://orleans-snow.clamsnet.org/",
+        "lat": 41.7890,
+        "lng": -69.9890,
+        "postal_code": "02653"
+    },
+    {
+        "name": "Osterville Village Library",
+        "slug": "osterville",
+        "lib": "aspendiscovery",
+        "domain": "https://osterville.clamsnet.org/",
+        "lat": 41.6284,
+        "lng": -70.3814,
+        "postal_code": "02655"
+    },
+    {
+        "name": "Panhandle Public Library Cooperative",
+        "slug": "panhandle",
+        "lib": "aspendiscovery",
+        "domain": "http://panhandle.aspendiscovery.org/",
+        "lat": 30.4419,
+        "lng": -84.3140,
+        "postal_code": "32301"
+    },
+    {
+        "name": "Pasco County Public Library",
+        "slug": "pascolibraries",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.pascolibraries.org/",
+        "lat": 28.3240,
+        "lng": -82.6393,
+        "postal_code": "34667"
     },
     {
         "name": "Paso Robles City Library",
@@ -405,6 +1296,177 @@
         "postal_code": "93446"
     },
     {
+        "name": "Pioneer Library Consortium",
+        "slug": "pioneer",
+        "lib": "aspendiscovery",
+        "domain": "https://pioneer.aspendiscovery.org/",
+        "lat": 41.2565,
+        "lng": -95.9345,
+        "postal_code": "68102"
+    },
+    {
+        "name": "Plum Creek Library System",
+        "slug": "plumcreek",
+        "lib": "aspendiscovery",
+        "domain": "https://plumcreeklibrary.org/",
+        "lat": 43.6233,
+        "lng": -95.5972,
+        "postal_code": "56187"
+    },
+    {
+        "name": "Porter County Public Library System",
+        "slug": "pcpls",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.pcpls.org/",
+        "lat": 41.4731,
+        "lng": -87.0611,
+        "postal_code": "46383"
+    },
+    {
+        "name": "Provincetown Public Library",
+        "slug": "provincetown",
+        "lib": "aspendiscovery",
+        "domain": "https://provincetown.clamsnet.org/",
+        "lat": 42.0520,
+        "lng": -70.1870,
+        "postal_code": "02657"
+    },
+    {
+        "name": "Pueblo City-County Library District",
+        "slug": "pueblo",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.pueblolibrary.org/",
+        "lat": 38.2544,
+        "lng": -104.6091,
+        "postal_code": "81003"
+    },
+    {
+        "name": "Ramapo Catskill Library System",
+        "slug": "ramapo",
+        "lib": "aspendiscovery",
+        "domain": "https://ramapo.aspendiscovery.org/",
+        "lat": 41.1130,
+        "lng": -74.0430,
+        "postal_code": "10901"
+    },
+    {
+        "name": "Rancho Mirage Library & Observatory",
+        "slug": "ranchomirage",
+        "lib": "aspendiscovery",
+        "domain": "https://ranchomirage.aspendiscovery.org/",
+        "lat": 33.7397,
+        "lng": -116.4128,
+        "postal_code": "92270"
+    },
+    {
+        "name": "Rapid City Public Library",
+        "slug": "rapidcity",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.rapidcitylibrary.org/",
+        "lat": 44.0805,
+        "lng": -103.2310,
+        "postal_code": "57701"
+    },
+    {
+        "name": "R.H. Johnson Library and Data Resource Center",
+        "slug": "rhjohnson",
+        "lib": "aspendiscovery",
+        "domain": "https://rhjohnson.aspendiscovery.org/",
+        "lat": 33.6610,
+        "lng": -112.3410,
+        "postal_code": "85375"
+    },
+    {
+        "name": "Riverside Public Library",
+        "slug": "riverside",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.riversideca.gov/",
+        "lat": 33.9806,
+        "lng": -117.3755,
+        "postal_code": "92501"
+    },
+    {
+        "name": "Roseville Public Library",
+        "slug": "roseville",
+        "lib": "aspendiscovery",
+        "domain": "https://library.roseville.ca.us/",
+        "lat": 38.7521,
+        "lng": -121.2880,
+        "postal_code": "95678"
+    },
+    {
+        "name": "Round Rock Public Library",
+        "slug": "roundrock",
+        "lib": "aspendiscovery",
+        "domain": "https://discovery.roundrocktexas.gov/",
+        "lat": 30.5083,
+        "lng": -97.6789,
+        "postal_code": "78664"
+    },
+    {
+        "name": "Rutherford County Library System",
+        "slug": "rutherford",
+        "lib": "aspendiscovery",
+        "domain": "https://explore.rclstn.org/",
+        "lat": 35.8456,
+        "lng": -86.3903,
+        "postal_code": "37130"
+    },
+    {
+        "name": "Rye Public Library",
+        "slug": "rye",
+        "lib": "aspendiscovery",
+        "domain": "https://ryepubliclibrary.bywatersolutions.com/",
+        "lat": 43.0137,
+        "lng": -70.7703,
+        "postal_code": "03870"
+    },
+    {
+        "name": "Salina Public Library",
+        "slug": "salina",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.salinapubliclibrary.org/",
+        "lat": 38.8403,
+        "lng": -97.6114,
+        "postal_code": "67401"
+    },
+    {
+        "name": "Salinas Public Library",
+        "slug": "salinas",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.salinaspubliclibrary.org/",
+        "lat": 36.6777,
+        "lng": -121.6555,
+        "postal_code": "93901"
+    },
+    {
+        "name": "San Luis Obispo Public Library",
+        "slug": "sanluisobispo",
+        "lib": "aspendiscovery",
+        "domain": "https://www.slolibrary.org/",
+        "lat": 35.2828,
+        "lng": -120.6596,
+        "postal_code": "93401"
+    },
+    {
+        "name": "Santa Barbara Library",
+        "slug": "santabarbara",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.sbplibrary.org/",
+        "lat": 34.4208,
+        "lng": -119.6982,
+        "postal_code": "93101"
+    },
+    {
+        "name": "Santa Fe Public Library",
+        "slug": "santafe",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.santafelibrary.org/",
+        "lat": 35.6870,
+        "lng": -105.9378,
+        "postal_code": "87501"
+    },
+    {
         "name": "Santa Maria Public Library",
         "slug": "sm",
         "lat": 34.9530,
@@ -414,6 +1476,42 @@
         "postal_code": "93454"
     },
     {
+        "name": "Saratoga Springs Public Library",
+        "slug": "saratogasprings",
+        "lib": "aspendiscovery",
+        "domain": "https://sscity.aspendiscovery.org/",
+        "lat": 40.3497,
+        "lng": -111.9047,
+        "postal_code": "84045"
+    },
+    {
+        "name": "South Dennis Free Public Library",
+        "slug": "southdennis",
+        "lib": "aspendiscovery",
+        "domain": "https://dennis-south.clamsnet.org/",
+        "lat": 41.7150,
+        "lng": -70.1570,
+        "postal_code": "02660"
+    },
+    {
+        "name": "Southeast Florida Library Information Network (SEFLIN)",
+        "slug": "seflin",
+        "lib": "aspendiscovery",
+        "domain": "https://seflin.bywatersolutions.com/",
+        "lat": 26.3683,
+        "lng": -80.1289,
+        "postal_code": "33432"
+    },
+    {
+        "name": "Southern New Hampshire Library Cooperative",
+        "slug": "snhlc",
+        "lib": "aspendiscovery",
+        "domain": "https://snhlc.aspendiscovery.org/",
+        "lat": 42.8806,
+        "lng": -71.3267,
+        "postal_code": "03038"
+    },
+    {
         "name": "Spanish Fork Library",
         "slug": "spanishfork",
         "lat": 40.1148,
@@ -421,6 +1519,240 @@
         "lib": "aspendiscovery",
         "domain": "https://catalog.spanishfork.org/",
         "postal_code": "84660"
+    },
+    {
+        "name": "St. Johns County Public Library System",
+        "slug": "sjcpls",
+        "lib": "aspendiscovery",
+        "domain": "https://sjcpls.aspendiscovery.org/",
+        "lat": 29.8947,
+        "lng": -81.3145,
+        "postal_code": "32084"
+    },
+    {
+        "name": "Texarkana Public Library",
+        "slug": "texarkana",
+        "lib": "aspendiscovery",
+        "domain": "https://txklibrary.aspendiscovery.org/",
+        "lat": 33.4251,
+        "lng": -94.0477,
+        "postal_code": "75501"
+    },
+    {
+        "name": "Timpanogos Library Consortium",
+        "slug": "timpanogos",
+        "lib": "aspendiscovery",
+        "domain": "https://timpanogos.aspendiscovery.org/",
+        "lat": 40.2970,
+        "lng": -111.6946,
+        "postal_code": "84057"
+    },
+    {
+        "name": "Tooele City Library",
+        "slug": "tooele",
+        "lib": "aspendiscovery",
+        "domain": "https://tooele.aspendiscovery.org/",
+        "lat": 40.6097,
+        "lng": -112.3060,
+        "postal_code": "84074"
+    },
+    {
+        "name": "Truro Public Library",
+        "slug": "truro",
+        "lib": "aspendiscovery",
+        "domain": "https://truro.clamsnet.org/",
+        "lat": 41.9930,
+        "lng": -70.0500,
+        "postal_code": "02666"
+    },
+    {
+        "name": "Uintah County Library",
+        "slug": "uintah",
+        "lib": "aspendiscovery",
+        "domain": "https://library.uintah.gov/",
+        "lat": 40.4550,
+        "lng": -109.5287,
+        "postal_code": "84078"
+    },
+    {
+        "name": "Utah State Library Division",
+        "slug": "utstatelibdiv",
+        "lib": "aspendiscovery",
+        "domain": "https://utstatelibdiv.aspendiscovery.org/",
+        "lat": 40.7590,
+        "lng": -111.8882,
+        "postal_code": "84111"
+    },
+    {
+        "name": "Vineyard Haven Public Library",
+        "slug": "vineyardhaven",
+        "lib": "aspendiscovery",
+        "domain": "https://vineyard-haven.clamsnet.org/",
+        "lat": 41.4543,
+        "lng": -70.6030,
+        "postal_code": "02568"
+    },
+    {
+        "name": "Walla Walla Public Library",
+        "slug": "wallawalla",
+        "lib": "aspendiscovery",
+        "domain": "https://wallawalla.aspendiscovery.org/",
+        "lat": 46.0646,
+        "lng": -118.3430,
+        "postal_code": "99362"
+    },
+    {
+        "name": "Walla Walla County Rural Library District",
+        "slug": "wwcrld",
+        "lib": "aspendiscovery",
+        "domain": "https://wwcrld.aspendiscovery.org/",
+        "lat": 46.0646,
+        "lng": -118.3430,
+        "postal_code": "99362"
+    },
+    {
+        "name": "Washoe County Library System",
+        "slug": "washoe",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.washoecountylibrary.us/",
+        "lat": 39.5296,
+        "lng": -119.8138,
+        "postal_code": "89501"
+    },
+    {
+        "name": "Waterloo Public Library",
+        "slug": "waterloo",
+        "lib": "aspendiscovery",
+        "domain": "https://waterloo.aspendiscovery.org/",
+        "lat": 42.4928,
+        "lng": -92.3426,
+        "postal_code": "50701"
+    },
+    {
+        "name": "Weeks Public Library",
+        "slug": "weeks",
+        "lib": "aspendiscovery",
+        "domain": "https://weekspublic.aspendiscovery.org/",
+        "lat": 43.0465,
+        "lng": -70.8220,
+        "postal_code": "03840"
+    },
+    {
+        "name": "Wellfleet Public Library",
+        "slug": "wellfleet",
+        "lib": "aspendiscovery",
+        "domain": "https://wellfleet.clamsnet.org/",
+        "lat": 41.9384,
+        "lng": -70.0320,
+        "postal_code": "02667"
+    },
+    {
+        "name": "West Barnstable Whelden Memorial Library",
+        "slug": "westbarnstable",
+        "lib": "aspendiscovery",
+        "domain": "https://west-barnstable-whelden.clamsnet.org/",
+        "lat": 41.7060,
+        "lng": -70.3680,
+        "postal_code": "02668"
+    },
+    {
+        "name": "West Dennis Free Public Library",
+        "slug": "westdennis",
+        "lib": "aspendiscovery",
+        "domain": "https://dennis-west.clamsnet.org/",
+        "lat": 41.6640,
+        "lng": -70.1760,
+        "postal_code": "02670"
+    },
+    {
+        "name": "West Falmouth Library",
+        "slug": "westfalmouth",
+        "lib": "aspendiscovery",
+        "domain": "https://falmouth-west.clamsnet.org/",
+        "lat": 41.6030,
+        "lng": -70.6420,
+        "postal_code": "02540"
+    },
+    {
+        "name": "West Tisbury Free Public Library",
+        "slug": "westtisbury",
+        "lib": "aspendiscovery",
+        "domain": "https://west-tisbury.clamsnet.org/",
+        "lat": 41.3810,
+        "lng": -70.6750,
+        "postal_code": "02575"
+    },
+    {
+        "name": "Westlake Porter Public Library",
+        "slug": "westlake",
+        "lib": "aspendiscovery",
+        "domain": "https://search.westlakelibrary.org/",
+        "lat": 41.4553,
+        "lng": -81.9179,
+        "postal_code": "44145"
+    },
+    {
+        "name": "Wheaton Public Library",
+        "slug": "wheaton",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.wheatonlibrary.org/",
+        "lat": 41.8650,
+        "lng": -88.1070,
+        "postal_code": "60187"
+    },
+    {
+        "name": "Williamsburg Regional Library",
+        "slug": "williamsburg",
+        "lib": "aspendiscovery",
+        "domain": "https://wrl.aspendiscovery.org/",
+        "lat": 37.2707,
+        "lng": -76.7075,
+        "postal_code": "23185"
+    },
+    {
+        "name": "Williamson County Public Library",
+        "slug": "wilco",
+        "lib": "aspendiscovery",
+        "domain": "https://wilco.aspendiscovery.org/",
+        "lat": 35.9251,
+        "lng": -86.8689,
+        "postal_code": "37064"
+    },
+    {
+        "name": "Woods Hole Public Library",
+        "slug": "woodshole",
+        "lib": "aspendiscovery",
+        "domain": "https://woods-hole.clamsnet.org/",
+        "lat": 41.5230,
+        "lng": -70.6710,
+        "postal_code": "02543"
+    },
+    {
+        "name": "Yarmouth Port Library",
+        "slug": "yarmouthport",
+        "lib": "aspendiscovery",
+        "domain": "https://yarmouth-port.clamsnet.org/",
+        "lat": 41.7040,
+        "lng": -70.2430,
+        "postal_code": "02675"
+    },
+    {
+        "name": "Yarmouth Town Libraries",
+        "slug": "yarmouthtown",
+        "lib": "aspendiscovery",
+        "domain": "https://yarmouth-town.clamsnet.org/",
+        "lat": 41.7050,
+        "lng": -70.2280,
+        "postal_code": "02664"
+    },
+    {
+        "name": "Yavapai Library Network",
+        "slug": "yavapai",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.yln.info/",
+        "lat": 34.5400,
+        "lng": -112.4685,
+        "postal_code": "86301"
     },
     {
         "name": "Yukon Public Libraries",
