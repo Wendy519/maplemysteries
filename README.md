@@ -5,7 +5,7 @@
 
 # Bibliocommons search params:
 - Keyword: v2/search?query={title}%20{author]&searchType=smart
-- Advanced: /v2/search?custom_edit=false&query=(title:({title)%20AND%20contributor:({author})%20)&searchType=bl&suppress=true
+- Advanced: /v2/search?custom_edit=false&query=(title:({title})%20AND%20contributor:({author})%20)&searchType=bl&suppress=true
 - Series: /v2/search?query={series%20name}&searchType=series
   
 # For UK Libraries see:
