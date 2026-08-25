@@ -10,7 +10,11 @@
 
 # Vega Discover search params:
  - Keyword: /search?query={title}%20AND%20{author}&searchType=everything&pageSize=10&rapido=true
- - Series: /search?query={series%20name}&searchType=series&pageSiz
+ - Series: /search?query={series%20name}&searchType=series&pageSize=10
+
+# Sirsi Discovery
+- Advanced: client/en_US/lcpl/search/advanced/boolean?searchType1=AUTHOR&term1={author}&searchType2=TITLE&term2={title}&operator=AND
+- Series: /client/en_US/home/search/results?qu={series+name}&te=&rt=false|||SERIES|||Series
   
 # For UK Libraries see:
  - https://github.com/LibrariesHacked
