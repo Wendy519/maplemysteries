@@ -152,6 +152,14 @@
         "postal_code": "33432"
     },
     {
+        "name": "Boston Public Library",
+        "slug": "bpl",
+        "lat": 42.3493,
+        "lng": -71.0780,
+        "lib": "bibliocommons",
+        "postal_code": "02116"
+    },
+    {
         "name": "Bowen Island Public Library",
         "slug": "bowenlibrary",
         "lat": 49.3799,

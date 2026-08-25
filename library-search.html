@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Library Search</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.5;
+        }
+
+        h1 {
+            margin-bottom: 5px;
+        }
+
+        #count {
+            color: #666;
+            margin-bottom: 25px;
+        }
+
+        #search {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 12px;
+            font-size: 18px;
+            border: 1px solid #aaa;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .result {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+
+        .result h3 {
+            margin: 0 0 5px 0;
+        }
+
+        .details {
+            color: #555;
+            font-size: 14px;
+        }
+
+        .domain {
+            font-family: monospace;
+            color: #333;
+        }
+
+        .no-results {
+            color: #900;
+            font-weight: bold;
+        }
+
+        .hint {
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Library Database Search</h1>
+
+    <div id="count">
+        Loading library database...
+    </div>
+
+    <input
+        type="search"
+        id="search"
+        placeholder="Search for a library name, slug, or domain..."
+        autofocus
+    >
+
+    <div class="hint">
+        Start typing to search. Search is not case-sensitive.
+    </div>
+
+    <div id="results"></div>
+
+
+<script>
+
+    let libraries = [];
+
+
+    // ----------------------------------------------------
+    // Load the JSON database
+    // ----------------------------------------------------
+
+    fetch("libraries.json")
+        .then(response => {
+
+            if (!response.ok) {
+                throw new Error(
+                    "Could not load libraries.json"
+                );
+            }
+
+            return response.json();
+        })
+
+        .then(data => {
+
+            libraries = data;
+
+            document.getElementById("count").textContent =
+                `${libraries.length.toLocaleString()} libraries in database`;
+
+        })
+
+        .catch(error => {
+
+            document.getElementById("count").textContent =
+                "ERROR: Could not load library database.";
+
+            console.error(error);
+
+        });
+
+
+    // ----------------------------------------------------
+    // Normalize text for searching
+    // ----------------------------------------------------
+
+    function normalize(text) {
+
+        return String(text || "")
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .replace(/[^a-z0-9]/g, "");
+
+    }
+
+
+    // ----------------------------------------------------
+    // Search
+    // ----------------------------------------------------
+
+    document.getElementById("search")
+        .addEventListener("input", function() {
+
+            const searchTerm =
+                normalize(this.value);
+
+            const resultsDiv =
+                document.getElementById("results");
+
+            resultsDiv.innerHTML = "";
+
+
+            // Don't display anything for an empty search.
+            if (!searchTerm) {
+                return;
+            }
+
+
+            // ------------------------------------------------
+            // Find matches
+            // ------------------------------------------------
+
+            const matches = libraries
+                .filter(library => {
+
+                    const name =
+                        normalize(library.name);
+
+                    const slug =
+                        normalize(library.slug);
+
+                    const domain =
+                        normalize(library.domain);
+
+                    return (
+                        name.includes(searchTerm) ||
+                        slug.includes(searchTerm) ||
+                        domain.includes(searchTerm)
+                    );
+
+                })
+                .slice(0, 100);
+
+
+            // ------------------------------------------------
+            // No matches
+            // ------------------------------------------------
+
+            if (matches.length === 0) {
+
+                resultsDiv.innerHTML =
+                    `<p class="no-results">
+                        No matching libraries found.
+                    </p>`;
+
+                return;
+            }
+
+
+            // ------------------------------------------------
+            // Display matches
+            // ------------------------------------------------
+
+            matches.forEach(library => {
+
+                const div =
+                    document.createElement("div");
+
+                div.className = "result";
+
+
+                const name =
+                    document.createElement("h3");
+
+                name.textContent =
+                    library.name || "(No name)";
+
+
+                const details =
+                    document.createElement("div");
+
+                details.className = "details";
+
+                details.innerHTML = `
+                    <strong>System:</strong>
+                    ${escapeHTML(library.lib || "")}
+                    <br>
+
+                    <strong>Slug:</strong>
+                    ${escapeHTML(library.slug || "")}
+                    <br>
+
+                    <strong>Domain:</strong>
+                    <span class="domain">
+                        ${escapeHTML(library.domain || "")}
+                    </span>
+                    <br>
+
+                    <strong>Postal code:</strong>
+                    ${escapeHTML(library.postal_code || "")}
+                `;
+
+
+                div.appendChild(name);
+                div.appendChild(details);
+
+                resultsDiv.appendChild(div);
+
+            });
+
+        });
+
+
+    // ----------------------------------------------------
+    // Prevent library data from being interpreted as HTML
+    // ----------------------------------------------------
+
+    function escapeHTML(value) {
+
+        return String(value)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;");
+
+    }
+
+</script>
+
+</body>
+</html>

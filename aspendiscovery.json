@@ -1762,5 +1762,950 @@
         "lib": "aspendiscovery",
         "domain": "https://search.yukonlibraries.ca/",
         "postal_code": "Y1A 2C6"
+    },
+    {
+        "name": "Acorn Public Library District",
+        "slug": "ads",
+        "lib": "aspendiscovery",
+        "domain": "https://ads.swanlibraries.net/",
+        "postal_code": "15624",
+        "lat": 41.6074,
+        "lng": -79.5554
+    },
+    {
+        "name": "Addison Public Library",
+        "slug": "add",
+        "lib": "aspendiscovery",
+        "domain": "https://add.swanlibraries.net/",
+        "postal_code": "60101",
+        "lat": 41.9323,
+        "lng": -87.9936
+    },
+    {
+        "name": "Alsip-Merrionette Park Public Library District",
+        "slug": "ams",
+        "lib": "aspendiscovery",
+        "domain": "https://ams.swanlibraries.net/",
+        "postal_code": "11960",
+        "lat": 41.6750,
+        "lng": -87.7342
+    },
+    {
+        "name": "Batavia Public Library District",
+        "slug": "bld",
+        "lib": "aspendiscovery",
+        "domain": "https://bld.swanlibraries.net/",
+        "postal_code": "60510",
+        "lat": 41.8494,
+        "lng": -88.3113
+    },
+    {
+        "name": "Bedford Park Public Library District",
+        "slug": "bps",
+        "lib": "aspendiscovery",
+        "domain": "https://bps.swanlibraries.net/",
+        "postal_code": "60501",
+        "lat": 41.7730,
+        "lng": -87.8776
+    },
+    {
+        "name": "Beecher Community Library District",
+        "slug": "bcs",
+        "lib": "aspendiscovery",
+        "domain": "https://bcs.swanlibraries.net/",
+        "postal_code": "60401",
+        "lat": 41.2861,
+        "lng": -87.6328
+    },
+    {
+        "name": "Bellwood Public Library",
+        "slug": "bws",
+        "lib": "aspendiscovery",
+        "domain": "https://bws.swanlibraries.net/",
+        "postal_code": "60104",
+        "lat": 41.8815,
+        "lng": -87.8776
+    },
+    {
+        "name": "Bensenville Community Public Library District",
+        "slug": "bvd",
+        "lib": "aspendiscovery",
+        "domain": "https://bvd.swanlibraries.net/",
+        "postal_code": "60106",
+        "lat": 41.9578,
+        "lng": -87.9336
+    },
+    {
+        "name": "Bensenville Elementary School District #2",
+        "slug": "btd",
+        "lib": "aspendiscovery",
+        "domain": "https://btd.swanlibraries.net/",
+        "postal_code": "60106",
+        "lat": 41.9578,
+        "lng": -87.9336
+    },
+    {
+        "name": "Bensenville Elementary School District #2",
+        "slug": "bjd",
+        "lib": "aspendiscovery",
+        "domain": "https://bjd.swanlibraries.net/",
+        "postal_code": "60106",
+        "lat": 41.9578,
+        "lng": -87.9336
+    },
+    {
+        "name": "Bensenville Elementary School District #2",
+        "slug": "bbd",
+        "lib": "aspendiscovery",
+        "domain": "https://bbd.swanlibraries.net/",
+        "postal_code": "60106",
+        "lat": 41.9578,
+        "lng": -87.9336
+    },
+    {
+        "name": "Berkeley Public Library",
+        "slug": "bks",
+        "lib": "aspendiscovery",
+        "domain": "https://bks.swanlibraries.net/",
+        "postal_code": "60163",
+        "lat": 41.8841,
+        "lng": -87.9128
+    },
+    {
+        "name": "Berwyn Public Library",
+        "slug": "bys",
+        "lib": "aspendiscovery",
+        "domain": "https://bys.swanlibraries.net/",
+        "postal_code": "60402",
+        "lat": 41.8416,
+        "lng": -87.8029
+    },
+    {
+        "name": "Bloomingdale Public Library",
+        "slug": "bdd",
+        "lib": "aspendiscovery",
+        "domain": "https://bdd.swanlibraries.net/",
+        "postal_code": "60108",
+        "lat": 41.9489,
+        "lng": -88.0792
+    },
+    {
+        "name": "Blue Island Public Library",
+        "slug": "bis",
+        "lib": "aspendiscovery",
+        "domain": "https://bis.swanlibraries.net/",
+        "postal_code": "60406",
+        "lat": 41.6569,
+        "lng": -87.6814
+    },
+    {
+        "name": "Bridgeview Public Library",
+        "slug": "bvs",
+        "lib": "aspendiscovery",
+        "domain": "https://bvs.swanlibraries.net/",
+        "postal_code": "60455",
+        "lat": 41.7481,
+        "lng": -87.8157
+    },
+    {
+        "name": "Broadview Public Library District",
+        "slug": "brs",
+        "lib": "aspendiscovery",
+        "domain": "https://brs.swanlibraries.net/",
+        "postal_code": "60155",
+        "lat": 41.7936,
+        "lng": -87.8456
+    },
+    {
+        "name": "Calumet City Public Library",
+        "slug": "ccs",
+        "lib": "aspendiscovery",
+        "domain": "https://ccs.swanlibraries.net/",
+        "postal_code": "60409",
+        "lat": 41.6168,
+        "lng": -87.5560
+    },
+    {
+        "name": "Calumet Park Public Library",
+        "slug": "cas",
+        "lib": "aspendiscovery",
+        "domain": "https://cas.swanlibraries.net/",
+        "postal_code": "60827",
+        "lat": 41.6632,
+        "lng": -87.6587
+    },
+    {
+        "name": "Carol Stream Public Library",
+        "slug": "csd",
+        "lib": "aspendiscovery",
+        "domain": "https://csd.swanlibraries.net/",
+        "postal_code": "60188",
+        "lat": 41.9190,
+        "lng": -88.1299
+    },
+    {
+        "name": "Chicago Heights Public Library",
+        "slug": "chs",
+        "lib": "aspendiscovery",
+        "domain": "https://chs.swanlibraries.net/",
+        "postal_code": "60411",
+        "lat": 41.5046,
+        "lng": -87.6416
+    },
+    {
+        "name": "Chicago Ridge Public Library",
+        "slug": "crs",
+        "lib": "aspendiscovery",
+        "domain": "https://crs.swanlibraries.net/",
+        "postal_code": "10400",
+        "lat": 41.7030,
+        "lng": -87.7779
+    },
+    {
+        "name": "Cicero Public Library",
+        "slug": "cis",
+        "lib": "aspendiscovery",
+        "domain": "https://cis.swanlibraries.net/",
+        "postal_code": "60804",
+        "lat": 41.8508,
+        "lng": -87.7556
+    },
+    {
+        "name": "Clarendon Hills Public Library",
+        "slug": "cns",
+        "lib": "aspendiscovery",
+        "domain": "https://cns.swanlibraries.net/",
+        "postal_code": "60514",
+        "lat": 41.7983,
+        "lng": -87.9545
+    },
+    {
+        "name": "Crestwood Public Library District",
+        "slug": "cws",
+        "lib": "aspendiscovery",
+        "domain": "https://cws.swanlibraries.net/",
+        "postal_code": "60418",
+        "lat": 41.6036,
+        "lng": -87.7036
+    },
+    {
+        "name": "Crete Public Library District",
+        "slug": "cts",
+        "lib": "aspendiscovery",
+        "domain": "https://cts.swanlibraries.net/",
+        "postal_code": "60417",
+        "lat": 41.4525,
+        "lng": -87.6186
+    },
+    {
+        "name": "Dolton Public Library District",
+        "slug": "dos",
+        "lib": "aspendiscovery",
+        "domain": "https://dos.swanlibraries.net/",
+        "postal_code": "14037",
+        "lat": 41.6264,
+        "lng": -87.6194
+    },
+    {
+        "name": "Downers Grove Public Library",
+        "slug": "dgs",
+        "lib": "aspendiscovery",
+        "domain": "https://dgs.swanlibraries.net/",
+        "postal_code": "60515",
+        "lat": 41.7941,
+        "lng": -88.0115
+    },
+    {
+        "name": "Eisenhower Public Library District",
+        "slug": "ess",
+        "lib": "aspendiscovery",
+        "domain": "https://ess.swanlibraries.net/",
+        "postal_code": "60706",
+        "lat": 41.8803,
+        "lng": -87.8358
+    },
+    {
+        "name": "Elmwood Park Public Library",
+        "slug": "eps",
+        "lib": "aspendiscovery",
+        "domain": "https://eps.swanlibraries.net/",
+        "postal_code": "60707",
+        "lat": 41.9262,
+        "lng": -87.8173
+    },
+    {
+        "name": "Evergreen Park Public Library",
+        "slug": "evs",
+        "lib": "aspendiscovery",
+        "domain": "https://evs.swanlibraries.net/",
+        "postal_code": "60805",
+        "lat": 41.7222,
+        "lng": -87.7010
+    },
+    {
+        "name": "Flossmoor Public Library",
+        "slug": "fms",
+        "lib": "aspendiscovery",
+        "domain": "https://fms.swanlibraries.net/",
+        "postal_code": "60422",
+        "lat": 41.5441,
+        "lng": -87.6788
+    },
+    {
+        "name": "Forest Park Public Library",
+        "slug": "fps",
+        "lib": "aspendiscovery",
+        "domain": "https://fps.swanlibraries.net/",
+        "postal_code": "60130",
+        "lat": 41.8761,
+        "lng": -87.8143
+    },
+    {
+        "name": "Frankfort Public Library District",
+        "slug": "frs",
+        "lib": "aspendiscovery",
+        "domain": "https://frs.swanlibraries.net/",
+        "postal_code": "21119",
+        "lat": 41.4953,
+        "lng": -87.8497
+    },
+    {
+        "name": "Franklin Park Public Library District",
+        "slug": "fpd",
+        "lib": "aspendiscovery",
+        "domain": "https://fpd.swanlibraries.net/",
+        "postal_code": "10311",
+        "lat": 41.9317,
+        "lng": -87.8725
+    },
+    {
+        "name": "Geneva Public Library District",
+        "slug": "gvd",
+        "lib": "aspendiscovery",
+        "domain": "https://gvd.swanlibraries.net/",
+        "postal_code": "60134",
+        "lat": 41.8875,
+        "lng": -88.3093
+    },
+    {
+        "name": "Glen Ellyn Public Library",
+        "slug": "ged",
+        "lib": "aspendiscovery",
+        "domain": "https://ged.swanlibraries.net/",
+        "postal_code": "60137",
+        "lat": 41.8757,
+        "lng": -88.0707
+    },
+    {
+        "name": "Glenside Public Library District",
+        "slug": "gsd",
+        "lib": "aspendiscovery",
+        "domain": "https://gsd.swanlibraries.net/",
+        "postal_code": "60139",
+        "lat": 41.9125,
+        "lng": -88.0903
+    },
+    {
+        "name": "Glenwood-Lynwood Public Library District",
+        "slug": "gws",
+        "lib": "aspendiscovery",
+        "domain": "https://gws.swanlibraries.net/",
+        "postal_code": "19901",
+        "lat": 41.5334,
+        "lng": -87.5768
+    },
+    {
+        "name": "Grande Prairie Public Library District",
+        "slug": "gps",
+        "lib": "aspendiscovery",
+        "domain": "https://gps.swanlibraries.net/",
+        "postal_code": "60429",
+        "lat": 41.5023,
+        "lng": -87.6358
+    },
+    {
+        "name": "Green Hills Public Library District",
+        "slug": "ghs",
+        "lib": "aspendiscovery",
+        "domain": "https://ghs.swanlibraries.net/",
+        "postal_code": "10331",
+        "lat": 41.6762,
+        "lng": -87.7541
+    },
+    {
+        "name": "Harvey Public Library District",
+        "slug": "has",
+        "lib": "aspendiscovery",
+        "domain": "https://has.swanlibraries.net/",
+        "postal_code": "15441",
+        "lat": 41.6068,
+        "lng": -87.6358
+    },
+    {
+        "name": "Hillside Public Library",
+        "slug": "hss",
+        "lib": "aspendiscovery",
+        "domain": "https://hss.swanlibraries.net/",
+        "postal_code": "60162",
+        "lat": 41.8770,
+        "lng": -87.9080
+    },
+    {
+        "name": "Hinsdale Public Library",
+        "slug": "hds",
+        "lib": "aspendiscovery",
+        "domain": "https://hds.swanlibraries.net/",
+        "postal_code": "60521",
+        "lat": 41.8044,
+        "lng": -87.9287
+    },
+    {
+        "name": "Hodgkins Public Library District",
+        "slug": "hks",
+        "lib": "aspendiscovery",
+        "domain": "https://hks.swanlibraries.net/",
+        "postal_code": "60525",
+        "lat": 41.8078,
+        "lng": -87.8368
+    },
+    {
+        "name": "Homewood Public Library District",
+        "slug": "hws",
+        "lib": "aspendiscovery",
+        "domain": "https://hws.swanlibraries.net/",
+        "postal_code": "17917",
+        "lat": 41.5803,
+        "lng": -87.6706
+    },
+    {
+        "name": "Indian Prairie Public Library District",
+        "slug": "ins",
+        "lib": "aspendiscovery",
+        "domain": "https://ins.swanlibraries.net/",
+        "postal_code": "60561",
+        "lat": 41.6992,
+        "lng": -88.0965
+    },
+    {
+        "name": "Itasca Community Library",
+        "slug": "itd",
+        "lib": "aspendiscovery",
+        "domain": "https://itd.swanlibraries.net/",
+        "postal_code": "60143",
+        "lat": 41.9709,
+        "lng": -88.0203
+    },
+    {
+        "name": "Justice Public Library District",
+        "slug": "jds",
+        "lib": "aspendiscovery",
+        "domain": "https://jds.swanlibraries.net/",
+        "postal_code": "60458",
+        "lat": 41.5114,
+        "lng": -87.8078
+    },
+    {
+        "name": "Kaneville Public Library District",
+        "slug": "kvd",
+        "lib": "aspendiscovery",
+        "domain": "https://kvd.swanlibraries.net/",
+        "postal_code": "60144",
+        "lat": 41.8803,
+        "lng": -88.4514
+    },
+    {
+        "name": "LaGrange Park Public Library District",
+        "slug": "lps",
+        "lib": "aspendiscovery",
+        "domain": "https://lps.swanlibraries.net/",
+        "postal_code": "60526",
+        "lat": 41.8292,
+        "lng": -87.8697
+    },
+    {
+        "name": "LaGrange Public Library",
+        "slug": "lgs",
+        "lib": "aspendiscovery",
+        "domain": "https://lgs.swanlibraries.net/",
+        "postal_code": "60525",
+        "lat": 41.8292,
+        "lng": -87.8697
+    },
+    {
+        "name": "Lansing Public Library",
+        "slug": "lss",
+        "lib": "aspendiscovery",
+        "domain": "https://lss.swanlibraries.net/",
+        "postal_code": "60438",
+        "lat": 41.5661,
+        "lng": -87.5496
+    },
+    {
+        "name": "Linda Sokol Francis Brookfield Library",
+        "slug": "bfs",
+        "lib": "aspendiscovery",
+        "domain": "https://bfs.swanlibraries.net/",
+        "postal_code": "60513",
+        "lat": 41.8261,
+        "lng": -87.8486
+    },
+    {
+        "name": "Lyons Public Library",
+        "slug": "lys",
+        "lib": "aspendiscovery",
+        "domain": "https://lys.swanlibraries.net/",
+        "postal_code": "60534",
+        "lat": 41.8149,
+        "lng": -87.8204
+    },
+    {
+        "name": "Markham Public Library",
+        "slug": "mks",
+        "lib": "aspendiscovery",
+        "domain": "https://mks.swanlibraries.net/",
+        "postal_code": "16640",
+        "lat": 41.5867,
+        "lng": -87.6949
+    },
+    {
+        "name": "Matteson Area Public Library District",
+        "slug": "mts",
+        "lib": "aspendiscovery",
+        "domain": "https://mts.swanlibraries.net/",
+        "postal_code": "60443",
+        "lat": 41.5036,
+        "lng": -87.7058
+    },
+    {
+        "name": "Maywood Public Library District",
+        "slug": "mws",
+        "lib": "aspendiscovery",
+        "domain": "https://mws.swanlibraries.net/",
+        "postal_code": "60153",
+        "lat": 41.8792,
+        "lng": -87.8561
+    },
+    {
+        "name": "McCook Public Library District",
+        "slug": "mcs",
+        "lib": "aspendiscovery",
+        "domain": "https://mcs.swanlibraries.net/",
+        "postal_code": "60525",
+        "lat": 41.8414,
+        "lng": -87.8403
+    },
+    {
+        "name": "Melrose Park Public Library",
+        "slug": "mps",
+        "lib": "aspendiscovery",
+        "domain": "https://mps.swanlibraries.net/",
+        "postal_code": "60160",
+        "lat": 41.8943,
+        "lng": -87.8562
+    },
+    {
+        "name": "Messenger Public Library of North Aurora",
+        "slug": "med",
+        "lib": "aspendiscovery",
+        "domain": "https://med.swanlibraries.net/",
+        "postal_code": "60542",
+        "lat": 41.8091,
+        "lng": -88.3286
+    },
+    {
+        "name": "Midlothian Public Library",
+        "slug": "mds",
+        "lib": "aspendiscovery",
+        "domain": "https://mds.swanlibraries.net/",
+        "postal_code": "14701",
+        "lat": 41.6250,
+        "lng": -87.7320
+    },
+    {
+        "name": "Nancy L. McConathy Public Library District",
+        "slug": "svs",
+        "lib": "aspendiscovery",
+        "domain": "https://svs.swanlibraries.net/",
+        "postal_code": "21737",
+        "lat": 39.4145,
+        "lng": -77.4103
+    },
+    {
+        "name": "National University of Health Sciences",
+        "slug": "nud",
+        "lib": "aspendiscovery",
+        "domain": "https://nud.swanlibraries.net/",
+        "postal_code": "60148",
+        "lat": 42.0334,
+        "lng": -88.2838
+    },
+    {
+        "name": "North Riverside Public Library District",
+        "slug": "nrs",
+        "lib": "aspendiscovery",
+        "domain": "https://nrs.swanlibraries.net/",
+        "postal_code": "60546",
+        "lat": 41.8078,
+        "lng": -87.8368
+    },
+    {
+        "name": "Northlake Public Library District",
+        "slug": "nls",
+        "lib": "aspendiscovery",
+        "domain": "https://nls.swanlibraries.net/",
+        "postal_code": "60164",
+        "lat": 41.9242,
+        "lng": -87.9638
+    },
+    {
+        "name": "Oak Brook Public Library",
+        "slug": "obd",
+        "lib": "aspendiscovery",
+        "domain": "https://obd.swanlibraries.net/",
+        "postal_code": "60523",
+        "lat": 41.8337,
+        "lng": -87.9370
+    },
+    {
+        "name": "Oak Lawn Public Library",
+        "slug": "ols",
+        "lib": "aspendiscovery",
+        "domain": "https://ols.swanlibraries.net/",
+        "postal_code": "60453",
+        "lat": 41.7204,
+        "lng": -87.7523
+    },
+    {
+        "name": "Oak Park Public Library",
+        "slug": "ops",
+        "lib": "aspendiscovery",
+        "domain": "https://ops.swanlibraries.net/",
+        "postal_code": "60301",
+        "lat": 41.8892,
+        "lng": -87.7964
+    },
+    {
+        "name": "Oak Park Public Library",
+        "slug": "ops",
+        "lib": "aspendiscovery",
+        "domain": "https://ops.swanlibraries.net/",
+        "postal_code": "60302",
+        "lat": 41.8981,
+        "lng": -87.7827
+    },
+    {
+        "name": "Oak Park Public Library",
+        "slug": "ops",
+        "lib": "aspendiscovery",
+        "domain": "https://ops.swanlibraries.net/",
+        "postal_code": "60304",
+        "lat": 41.8729,
+        "lng": -87.7870
+    },
+    {
+        "name": "Palos Heights Public Library",
+        "slug": "phs",
+        "lib": "aspendiscovery",
+        "domain": "https://phs.swanlibraries.net/",
+        "postal_code": "12501",
+        "lat": 41.6640,
+        "lng": -87.7939
+    },
+    {
+        "name": "Palos Park Public Library",
+        "slug": "pps",
+        "lib": "aspendiscovery",
+        "domain": "https://pps.swanlibraries.net/",
+        "postal_code": "12330",
+        "lat": 41.6655,
+        "lng": -87.8382
+    },
+    {
+        "name": "Park Forest Public Library",
+        "slug": "pfs",
+        "lib": "aspendiscovery",
+        "domain": "https://pfs.swanlibraries.net/",
+        "postal_code": "60466",
+        "lat": 41.4852,
+        "lng": -87.6847
+    },
+    {
+        "name": "Prairie Trails Public Library District",
+        "slug": "pts",
+        "lib": "aspendiscovery",
+        "domain": "https://pts.swanlibraries.net/",
+        "postal_code": "60459",
+        "lat": 41.7083,
+        "lng": -87.8458
+    },
+    {
+        "name": "Richton Park Public Library District",
+        "slug": "rps",
+        "lib": "aspendiscovery",
+        "domain": "https://rps.swanlibraries.net/",
+        "postal_code": "22310",
+        "lat": 41.4867,
+        "lng": -87.6875
+    },
+    {
+        "name": "River Forest Public Library",
+        "slug": "rfs",
+        "lib": "aspendiscovery",
+        "domain": "https://rfs.swanlibraries.net/",
+        "postal_code": "60305",
+        "lat": 41.8932,
+        "lng": -87.8143
+    },
+    {
+        "name": "River Grove Public Library District",
+        "slug": "rgs",
+        "lib": "aspendiscovery",
+        "domain": "https://rgs.swanlibraries.net/",
+        "postal_code": "60171",
+        "lat": 41.9103,
+        "lng": -87.8403
+    },
+    {
+        "name": "Riverdale Public Library District",
+        "slug": "rds",
+        "lib": "aspendiscovery",
+        "domain": "https://rds.swanlibraries.net/",
+        "postal_code": "60827",
+        "lat": 41.6353,
+        "lng": -87.6083
+    },
+    {
+        "name": "Riverside Public Library",
+        "slug": "rss",
+        "lib": "aspendiscovery",
+        "domain": "https://rss.swanlibraries.net/",
+        "postal_code": "60546",
+        "lat": 41.8262,
+        "lng": -87.8193
+    },
+    {
+        "name": "Roselle Public Library District",
+        "slug": "rod",
+        "lib": "aspendiscovery",
+        "domain": "https://rod.swanlibraries.net/",
+        "postal_code": "60172",
+        "lat": 41.9803,
+        "lng": -88.0833
+    },
+    {
+        "name": "Saint Charles Public Library District",
+        "slug": "scd",
+        "lib": "aspendiscovery",
+        "domain": "https://scd.swanlibraries.net/",
+        "postal_code": "60174",
+        "lat": 41.9142,
+        "lng": -88.3083
+    },
+    {
+        "name": "Schiller Park Public Library",
+        "slug": "sps",
+        "lib": "aspendiscovery",
+        "domain": "https://sps.swanlibraries.net/",
+        "postal_code": "60176",
+        "lat": 41.9556,
+        "lng": -87.8610
+    },
+    {
+        "name": "South Holland Public Library",
+        "slug": "shs",
+        "lib": "aspendiscovery",
+        "domain": "https://shs.swanlibraries.net/",
+        "postal_code": "60462",
+        "lat": 41.5995,
+        "lng": -87.6107
+    },
+    {
+        "name": "Steger-South Chicago Heights Public Library District",
+        "slug": "sts",
+        "lib": "aspendiscovery",
+        "domain": "https://sts.swanlibraries.net/",
+        "postal_code": "60475",
+        "lat": 41.5292,
+        "lng": -87.6153
+    },
+    {
+        "name": "Stickney-Forest View Public Library District",
+        "slug": "sfs",
+        "lib": "aspendiscovery",
+        "domain": "https://sfs.swanlibraries.net/",
+        "postal_code": "60402",
+        "lat": 41.8303,
+        "lng": -87.7925
+    },
+    {
+        "name": "Sugar Grove Public Library District",
+        "slug": "sgd",
+        "lib": "aspendiscovery",
+        "domain": "https://sgd.swanlibraries.net/",
+        "postal_code": "60554",
+        "lat": 41.7667,
+        "lng": -88.4375
+    },
+    {
+        "name": "Summit Public Library District",
+        "slug": "sas",
+        "lib": "aspendiscovery",
+        "domain": "https://sas.swanlibraries.net/",
+        "postal_code": "60501",
+        "lat": 41.0832,
+        "lng": -81.5169
+    },
+    {
+        "name": "SWAN Library Services - System Wide Automated Network",
+        "slug": "catalog",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.swanlibraries.net/",
+        "postal_code": "60523",
+        "lat": 41.7936,
+        "lng": -88.1445
+    },
+    {
+        "name": "The Morton Arboretum",
+        "slug": "mas",
+        "lib": "aspendiscovery",
+        "domain": "https://mas.swanlibraries.net/",
+        "postal_code": "60532",
+        "lat": 41.8123,
+        "lng": -88.0117
+    },
+    {
+        "name": "Theosophical Society in America",
+        "slug": "tod",
+        "lib": "aspendiscovery",
+        "domain": "https://tod.swanlibraries.net/",
+        "postal_code": "60187",
+        "lat": 42.0333,
+        "lng": -88.2833
+    },
+    {
+        "name": "Thomas Ford Memorial Library",
+        "slug": "tfs",
+        "lib": "aspendiscovery",
+        "domain": "https://tfs.swanlibraries.net/",
+        "postal_code": "60558",
+        "lat": 41.8127,
+        "lng": -87.8992
+    },
+    {
+        "name": "Thornton Public Library",
+        "slug": "ths",
+        "lib": "aspendiscovery",
+        "domain": "https://ths.swanlibraries.net/",
+        "postal_code": "60476",
+        "lat": 41.5679,
+        "lng": -87.6119
+    },
+    {
+        "name": "Tinley Park Public Library",
+        "slug": "tps",
+        "lib": "aspendiscovery",
+        "domain": "https://tps.swanlibraries.net/",
+        "postal_code": "60477",
+        "lat": 41.5617,
+        "lng": -87.8105
+    },
+    {
+        "name": "Town and Country Public Library District",
+        "slug": "tcd",
+        "lib": "aspendiscovery",
+        "domain": "https://tcd.swanlibraries.net/",
+        "postal_code": "60119",
+        "lat": 41.9125,
+        "lng": -87.9814
+    },
+    {
+        "name": "University Park Public Library District",
+        "slug": "pss",
+        "lib": "aspendiscovery",
+        "domain": "https://pss.swanlibraries.net/",
+        "postal_code": "60484",
+        "lat": 41.4667,
+        "lng": -87.3000
+    },
+    {
+        "name": "Villa Park Public Library",
+        "slug": "vpd",
+        "lib": "aspendiscovery",
+        "domain": "https://vpd.swanlibraries.net/",
+        "postal_code": "60181",
+        "lat": 41.8847,
+        "lng": -87.9785
+    },
+    {
+        "name": "Warrenville Public Library District",
+        "slug": "wvd",
+        "lib": "aspendiscovery",
+        "domain": "https://wvd.swanlibraries.net/",
+        "postal_code": "60555",
+        "lat": 41.8231,
+        "lng": -88.1827
+    },
+    {
+        "name": "West Chicago Public Library District",
+        "slug": "wcd",
+        "lib": "aspendiscovery",
+        "domain": "https://wcd.swanlibraries.net/",
+        "postal_code": "60185",
+        "lat": 41.8839,
+        "lng": -88.2031
+    },
+    {
+        "name": "Westchester Public Library",
+        "slug": "wcs",
+        "lib": "aspendiscovery",
+        "domain": "https://wcs.swanlibraries.net/",
+        "postal_code": "10700",
+        "lat": 41.8556,
+        "lng": -87.8900
+    },
+    {
+        "name": "Westmont Public Library",
+        "slug": "wms",
+        "lib": "aspendiscovery",
+        "domain": "https://wms.swanlibraries.net/",
+        "postal_code": "60559",
+        "lat": 41.8062,
+        "lng": -87.9762
+    },
+    {
+        "name": "William Leonard Public Library District",
+        "slug": "ros",
+        "lib": "aspendiscovery",
+        "domain": "https://ros.swanlibraries.net/",
+        "postal_code": "13820",
+        "lat": 42.4578,
+        "lng": -88.4231
+    },
+    {
+        "name": "Wood Dale Public Library District",
+        "slug": "wdd",
+        "lib": "aspendiscovery",
+        "domain": "https://wdd.swanlibraries.net/",
+        "postal_code": "60191",
+        "lat": 41.9125,
+        "lng": -87.9333
+    },
+    {
+        "name": "Woodridge Public Library",
+        "slug": "wrs",
+        "lib": "aspendiscovery",
+        "domain": "https://wrs.swanlibraries.net/",
+        "postal_code": "60517",
+        "lat": 41.7559,
+        "lng": -88.0454
+    },
+    {
+        "name": "Worth Public Library District",
+        "slug": "wos",
+        "lib": "aspendiscovery",
+        "domain": "https://wos.swanlibraries.net/",
+        "postal_code": "60482",
+        "lat": 41.6442,
+        "lng": -87.7925
     }
 ]

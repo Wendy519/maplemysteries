@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Lapeer District Library",
+        "slug": "ldl",
+        "lat": 43.0539,
+        "lng": -83.3181,
+        "lib": "vegadescover",
+        "domain": "https://ldl-vlc.na5.iiivega.com/",
+        "postal_code": "48446"
+    },
+    {
+        "name": "New York Public Library",
+        "slug": "nypl",
+        "lat": 40.7532,
+        "lng": -73.9822,
+        "lib": "vegadiscover",
+        "domain": "https://nypl.na2.iiivega.com/",
+        "postal_code": "10018"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Enoch Pratt Free Library",
+        "slug": "epfl",
+        "lat": 39.2904,
+        "lng": -76.6122,
+        "lib": "sirsi",
+        "domain": "https://epfl.ent.sirsi.net/",
+        "postal_code": "21201"
+    },
+    {
+        "name": "Henrico county Public Library",
+        "slug": "hepl",
+        "lat": 37.5387,
+        "lng": -77.4360,
+        "lib": "sirsi",
+        "domain": "https://hepl.ent.sirsi.net/",
+        "postal_code": "23229"
+    },
+    {
+        "name": "Lakewood Public Library",
+        "slug": "lwpl",
+        "lat": 41.4822,
+        "lng": -81.7989,
+        "lib": "sirsi",
+        "domain": "https://lwpl.ent.sirsi.net/",
+        "postal_code": "44107"
+    },
+    {
+        "name": "Leon County Public Library",
+        "slug": "lcpl",
+        "lat": 30.4383,
+        "lng": -84.2807,
+        "lib": "sirsi",
+        "domain": "https://lcpl.ent.sirsi.net/",
+        "postal_code": "32301"
+    },
+    {
+        "name": "First Regional Library, Mississippi Library Partnership",
+        "slug": "mlp",
+        "lat": 31.3271,
+        "lng": -89.2903,
+        "lib": "sirsi",
+        "domain": "https://mlp.ent.sirsi.net/",
+        "postal_code": "39440"
+    },
+    {
+        "name": "Greater Victoria Public Library",
+        "slug": "gvpl",
+        "lat": 48.4284,
+        "lng": -123.3656,
+        "lib": "sirsi",
+        "domain": "https://gvpl.ent.sirsidynix.net/",
+        "postal_code": "V8W 2Y2"
+    },
+    {
+        "name": "Mid York Library System, Utica, NY",
+        "slug": "myls",
+        "lat": 43.1009,
+        "lng": -75.2327,
+        "lib": "sirsi",
+        "domain": "https://myls.ent.sirsi.net/",
+        "postal_code": "13502"
+    },
+    {
+        "name": "Peterborough Public Library",
+        "slug": "peter",
+        "lat": 44.3039,
+        "lng": -78.3235,
+        "lib": "sirsi",
+        "domain": "https://peter.ent.sirsidynix.net/",
+        "postal_code": "K9H 3V7"
+    },
+    {
+        "name": "Seminole County Public Library",
+        "slug": "semc",
+        "lat": 28.6628,
+        "lng": -81.3081,
+        "lib": "sirsi",
+        "domain": "https://semc.ent.sirsi.net/",
+        "postal_code": "32771"
+    },
+    {
+        "name": "Washington County Library",
+        "slug": "wcl",
+        "lat": 44.7511,
+        "lng": -91.6461,
+        "lib": "sirsi",
+        "domain": "https://wcm.ent.sirsi.net/",
+        "postal_code": "54022"
+    },
+    {
+        "name": "Plano Public Library",
+        "slug": "plano",
+        "lat": 33.0198,
+        "lng": -96.6989,
+        "lib": "sirsi",
+        "domain": "https://plano.ent.sirsi.net/",
+        "postal_code": "75074"
+    },
+    {
+        "name": "Portage District Library",
+        "slug": "pdl",
+        "lat": 42.2018,
+        "lng": -85.5802,
+        "lib": "sirsi",
+        "domain": "https://pdl.ent.sirsi.net/",
+        "postal_code": "49002"
+    }
+]
