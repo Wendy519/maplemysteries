@@ -2624,6 +2624,14 @@
         "postal_code": "49632"
     },
     {
+        "name": "Toronto Public Library",
+        "slug": "tpl",
+        "lat": 43.6532,
+        "lng": -79.3832,
+        "lib": "bibliocommons",
+        "postal_code": "M5H 2N2"
+    },
+    {
         "name": "Indianapolis Public Library",
         "slug": "indypl",
         "lat": 39.778512,

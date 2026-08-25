@@ -2099,6 +2099,15 @@
         "postal_code": "49503"
     },
     {
+        "name": "Grande Prairie Public Library",
+        "slug": "gppl",
+        "lat": 55.17,
+        "lng": -118.793,
+        "lib": "vegadiscover",
+        "domain": "https://gppl.tracpac.ab.ca/",
+        "postal_code": "T8V 2W3"
+    },
+    {
         "name": "Grande Prairie Public Library District",
         "slug": "gps",
         "lib": "aspendiscovery",
@@ -3125,6 +3134,15 @@
         "postal_code": "08402"
     },
     {
+        "name": "Marigold Library System, Alberta, Canada",
+        "slug": "marigold",
+        "lat": 51.0447,
+        "lng": -114.0719,
+        "lib": "vegadiscover",
+        "domain": "https://www.tracpac.ab.ca/",
+        "postal_code": "T1P 1C1"
+    },
+    {
         "name": "Marin County Free Library",
         "slug": "marinlibrary",
         "lat": 38.1072,
@@ -3720,6 +3738,15 @@
         "postal_code": "66044"
     },
     {
+        "name": "Northern Lights Library System, Alberta, Canada",
+        "slug": "northernlights",
+        "lat": 55.1708,
+        "lng": -118.7885,
+        "lib": "vegadiscover",
+        "domain": "https://www.tracpac.ab.ca/",
+        "postal_code": "T0A 1A0"
+    },
+    {
         "name": "Northern New Hampshire Library Cooperative (NNHLC)",
         "slug": "nnhlc",
         "lib": "aspendiscovery",
@@ -4024,6 +4051,15 @@
         "lng": -85.8435,
         "lib": "bibliocommons",
         "postal_code": "49331"
+    },
+    {
+        "name": "Peace Library System",
+        "slug": "peace",
+        "lib": "vegadiscover",
+        "domain": "https://www.tracpac.ab.ca/",
+        "lat": 56.2345,
+        "lng": -117.1234,
+        "postal_code": "T8W 6T2"
     },
     {
         "name": "Pemberton Public Library",
@@ -5216,6 +5252,14 @@
         "postal_code": "66612"
     },
     {
+        "name": "Toronto Public Library",
+        "slug": "tpl",
+        "lat": 43.6532,
+        "lng": -79.3832,
+        "lib": "bibliocommons",
+        "postal_code": "M5H 2N2"
+    },
+    {
         "name": "Town and Country Public Library District",
         "slug": "tcd",
         "lib": "aspendiscovery",
@@ -5760,6 +5804,15 @@
         "lat": 34.54,
         "lng": -112.4685,
         "postal_code": "86301"
+    },
+    {
+        "name": "Yellowhead Regional Library, Alberta, Canada",
+        "slug": "yrl",
+        "lat": 53.6333,
+        "lng": -114.0833,
+        "lib": "vegadiscover",
+        "domain": "https://www.tracpac.ab.ca/",
+        "postal_code": "T7X 3B4"
     },
     {
         "name": "Yorba Linda Public Library",

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Forth Worth Public Library",
+        "slug": "fwpl",
+        "lat": 32.7555,
+        "lng": -97.3308,
+        "lib": "polaris",
+        "domain": "https://fwpl.polarislibrary.com/",
+        "postal_code": "76102"
+    }
+]
