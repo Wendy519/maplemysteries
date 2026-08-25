@@ -13,7 +13,7 @@
  - Series: /search?query={series%20name}&searchType=series&pageSize=10
 
 # Sirsi Discovery
-- Advanced: /client/en_US/lcpl/search/advanced/boolean?searchType1=AUTHOR&term1={author}&searchType2=TITLE&term2={title}&operator=AND
+- Advanced: /client/en_US/default/search/advanced/boolean?searchType1=AUTHOR&term1={author}&searchType2=TITLE&term2={title}&operator=AND
 - Series: /client/en_US/home/search/results?qu={series+name}&te=&rt=false|||SERIES|||Series
 
 # Polaris
