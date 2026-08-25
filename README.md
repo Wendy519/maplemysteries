@@ -15,6 +15,10 @@
 # Sirsi Discovery
 - Advanced: /client/en_US/lcpl/search/advanced/boolean?searchType1=AUTHOR&term1={author}&searchType2=TITLE&term2={title}&operator=AND
 - Series: /client/en_US/home/search/results?qu={series+name}&te=&rt=false|||SERIES|||Series
+
+# Polaris
+- Advanced: /search/searchresults.aspx?ctx={ctx}&type=Advanced&term={title}&relation=ALL&by=TI&term2={author}&relation2=ALL&by2=AU&bool1=AND&bool4=AND&limit=TOM=*&sort=RELEVANCE&page=0
+- Series: /search/searchresults.aspx?ctx={ctx}&type=Keyword&term={series%20name}&by=SE&sort=MP&limit=TOM=bks&query=&page=0&searchid=5  
   
 # For UK Libraries see:
  - https://github.com/LibrariesHacked
