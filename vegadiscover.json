@@ -61,5 +61,50 @@
         "lib": "vegadiscover",
         "domain": "https://gppl.tracpac.ab.ca/",
         "postal_code": "T8V 2W3"
+    },
+    {
+        "name": "Solano County Library",
+        "slug": "splash",
+        "lat": 38.3105,
+        "lng": -122.3076,
+        "lib": "vegadiscover",
+        "domain": "https://splash.na2.iiivega.com/",
+        "postal_code": "94533"
+    },
+    {
+        "name": "St. Charles City-County Library",
+        "slug": "scccl",
+        "lat": 38.7889,
+        "lng": -90.4975,
+        "lib": "vegadiscover",
+        "domain": "https://scccl.na4.iiivega.com/",
+        "postal_code": "63301"
+    },
+    {
+        "name": "New Orleans Public Library",
+        "slug": "neworleans",
+        "lat": 29.9511,
+        "lng": -90.0715,
+        "lib": "vegadiscover",
+        "domain": "https://neworleans.na4.iiivega.com/",
+        "postal_code": "70112"
+    },
+    {
+        "name": "Cedar Rapids Public Library, IA",
+        "slug": "crlibrary",
+        "lat": 41.9779,
+        "lng": -91.6656,
+        "lib": "vegadiscover",
+        "domain": "https://crpl.na.iiivega.com/",
+        "postal_code": "52401"
+    },
+    {
+        "name": "Fauquier Public Library, VA",
+        "slug": "fauqp",
+        "lat": 38.7209,
+        "lng": -77.7909,
+        "lib": "vegadiscover",
+        "domain": "https://fauqp.na.iiivega.com/",
+        "postal_code": "20186"
     }
 ]

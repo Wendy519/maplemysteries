@@ -63,6 +63,15 @@
         "postal_code": "24521"
     },
     {
+        "name": "Amherst Town Library, NH",
+        "slug": "amherstlibrary",
+        "lat": 42.9325,
+        "lng": -71.5803,
+        "lib": "aspendiscovery",
+        "domain": "https://discover.amherstlibrary.org/",
+        "postal_code": "03031"
+    },
+    {
         "name": "Anna Community Library",
         "slug": "annatx",
         "lat": 32.3000,
@@ -160,6 +169,15 @@
         "lib": "aspendiscovery",
         "domain": "https://barnstable-sturgis.clamsnet.org/",
         "postal_code": "02601"
+    },
+    {
+        "name": "Bedford Public Library, NH",
+        "slug": "bedfordnhlibrary",
+        "lat": 42.9583,
+        "lng": -71.5644,
+        "lib": "aspendiscovery",
+        "domain": "https://discover.bedfordnhlibrary.org/",
+        "postal_code": "03110"
     },
     {
         "name": "Bedford Public Library",
@@ -495,6 +513,15 @@
         "postal_code": "44221"
     },
     {
+        "name": "Danforth Library NH",
+        "slug": "danforth",
+        "lat": 43.3000,
+        "lng": -71.5000,
+        "lib": "aspendiscovery",
+        "domain": "https://danforth.aspendiscovery.org/",
+        "postal_code": "03242"
+    },
+    {
         "name": "Darien Library",
         "slug": "darien",
         "lib": "aspendiscovery",
@@ -529,6 +556,15 @@
         "lib": "aspendiscovery",
         "domain": "https://dennis-public.clamsnet.org/",
         "postal_code": "02638"
+    },
+    {
+        "name": "Derry Public Library, NH",
+        "slug": "derrypl",
+        "lat": 42.8806,
+        "lng": -71.3083,
+        "lib": "aspendiscovery",
+        "domain": "https://discover.derrypl.org/",
+        "postal_code": "03038"
     },
     {
         "name": "Des Moines Public Library",
@@ -727,6 +763,15 @@
         "lat": 42.0354,
         "lng": -88.2820,
         "postal_code": "60120"
+    },
+    {
+        "name": "Goffstown Public Library, NH",
+        "slug": "goffstown",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.goffstownlibrary.com/",
+        "lat": 43.0256,
+        "lng": -71.5496,
+        "postal_code": "03045"
     },
     {
         "name": "Goleta & Santa Ynez Valley Libraries",
@@ -2707,5 +2752,77 @@
         "postal_code": "60482",
         "lat": 41.6442,
         "lng": -87.7925
+    },
+    {
+        "name": "Yavapai County Library District",
+        "slug": "yln",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.yln.info/",
+        "postal_code": "86314",
+        "lat": 34.5889,
+        "lng": -112.4231
+    },
+    {
+        "name": "Hooksett Library, NH",
+        "slug": "hln",
+        "lib": "aspendiscovery",
+        "domain": "https://www.hooksettlibrary.org/",
+        "postal_code": "03106",
+        "lat": 43.0256,
+        "lng": -71.4467
+    },
+    {
+        "name": "Kelley Library, Salem, NH",
+        "slug": "kelley",
+        "lib": "aspendiscovery",
+        "domain": "https://kelley.aspendiscovery.org/",
+        "postal_code": "03079",
+        "lat": 42.7875,
+        "lng": -71.2011
+    },
+    {
+        "name": "Manchester City Library, NH",
+        "slug": "manchesterlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.manchesterlibrary.org/",
+        "postal_code": "03101",
+        "lat": 42.9956,
+        "lng": -71.4548
+    },
+    {
+        "name": "Merrimack Public Library, NH",
+        "slug": "merrimacklibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://www.merrimacklibrary.org/",
+        "postal_code": "03054",
+        "lat": 42.8656,
+        "lng": -71.4656
+    },
+    {
+        "name": "Nesmith Library, Windham, NH",
+        "slug": "nesmithlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.nesmithlibrary.org/",
+        "postal_code": "03087",
+        "lat": 42.8639,
+        "lng": -71.3611
+    },
+    {
+        "name": "Rodgers Memorial Library, Hudson, NH",
+        "slug": "rodgerslibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.rodgerslibrary.org/",
+        "postal_code": "03051",
+        "lat": 42.7656,
+        "lng": -71.4389
+    },
+    {
+        "name": "Wadleigh Memorial Library, Milford, NH",
+        "slug": "wadleighlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://www.wadleighlibrary.org/",
+        "postal_code": "03055",
+        "lat": 42.8306,
+        "lng": -71.5250
     }
 ]

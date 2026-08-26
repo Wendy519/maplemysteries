@@ -146,6 +146,15 @@
         "postal_code": "24521"
     },
     {
+        "name": "Amherst Town Library, NH",
+        "slug": "amherstlibrary",
+        "lat": 42.9325,
+        "lng": -71.5803,
+        "lib": "aspendiscovery",
+        "domain": "https://discover.amherstlibrary.org/",
+        "postal_code": "03031"
+    },
+    {
         "name": "Anna Community Library",
         "slug": "annatx",
         "lat": 32.3,
@@ -334,6 +343,15 @@
         "lib": "aspendiscovery",
         "domain": "https://bedfordtx.aspendiscovery.org/",
         "postal_code": "76021"
+    },
+    {
+        "name": "Bedford Public Library, NH",
+        "slug": "bedfordnhlibrary",
+        "lat": 42.9583,
+        "lng": -71.5644,
+        "lib": "aspendiscovery",
+        "domain": "https://discover.bedfordnhlibrary.org/",
+        "postal_code": "03110"
     },
     {
         "name": "Beecher Community Library District",
@@ -809,6 +827,15 @@
         "lib": "aspendiscovery",
         "domain": "https://library.cedarparktexas.gov/",
         "postal_code": "78613"
+    },
+    {
+        "name": "Cedar Rapids Public Library, IA",
+        "slug": "crlibrary",
+        "lat": 41.9779,
+        "lng": -91.6656,
+        "lib": "vegadiscover",
+        "domain": "https://crpl.na.iiivega.com/",
+        "postal_code": "52401"
     },
     {
         "name": "Cedar Springs Public Library",
@@ -1336,6 +1363,15 @@
         "postal_code": "94015"
     },
     {
+        "name": "Danforth Library NH",
+        "slug": "danforth",
+        "lat": 43.3,
+        "lng": -71.5,
+        "lib": "aspendiscovery",
+        "domain": "https://danforth.aspendiscovery.org/",
+        "postal_code": "03242"
+    },
+    {
         "name": "Daniel Boone Regional Library",
         "slug": "dbrl",
         "lat": 38.9511,
@@ -1410,6 +1446,15 @@
         "lng": -80.119,
         "lib": "bibliocommons",
         "postal_code": "27292"
+    },
+    {
+        "name": "Derry Public Library, NH",
+        "slug": "derrypl",
+        "lat": 42.8806,
+        "lng": -71.3083,
+        "lib": "aspendiscovery",
+        "domain": "https://discover.derrypl.org/",
+        "postal_code": "03038"
     },
     {
         "name": "Des Moines Public Library",
@@ -1763,6 +1808,15 @@
         "postal_code": "02540"
     },
     {
+        "name": "Fauquier Public Library, VA",
+        "slug": "fauqp",
+        "lat": 38.7209,
+        "lng": -77.7909,
+        "lib": "vegadiscover",
+        "domain": "https://fauqp.na.iiivega.com/",
+        "postal_code": "20186"
+    },
+    {
         "name": "Fayetteville Public Library",
         "slug": "fayetteville",
         "lib": "aspendiscovery",
@@ -1855,6 +1909,16 @@
         "lng": -122.6682,
         "lib": "bibliocommons",
         "postal_code": "98660"
+    },
+    {
+        "name": "Forth Worth Public Library",
+        "slug": "fwpl",
+        "lat": 32.7555,
+        "lng": -97.3308,
+        "lib": "polaris",
+        "domain": "https://fwpl.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.1",
+        "postal_code": "76102"
     },
     {
         "name": "Fox River Valley Public Library",
@@ -2071,6 +2135,15 @@
         "postal_code": "19901",
         "lat": 41.5334,
         "lng": -87.5768
+    },
+    {
+        "name": "Goffstown Public Library, NH",
+        "slug": "goffstown",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.goffstownlibrary.com/",
+        "lat": 43.0256,
+        "lng": -71.5496,
+        "postal_code": "03045"
     },
     {
         "name": "Goleta & Santa Ynez Valley Libraries",
@@ -2496,6 +2569,15 @@
         "lng": -87.6706
     },
     {
+        "name": "Hooksett Library, NH",
+        "slug": "hln",
+        "lib": "aspendiscovery",
+        "domain": "https://www.hooksettlibrary.org/",
+        "postal_code": "03106",
+        "lat": 43.0256,
+        "lng": -71.4467
+    },
+    {
         "name": "Hopkins District Library",
         "slug": "hopkins",
         "lat": 41.0664,
@@ -2638,6 +2720,16 @@
         "postal_code": "52240"
     },
     {
+        "name": "Irving Public Library, TX",
+        "slug": "irving",
+        "lat": 32.814,
+        "lng": -96.9489,
+        "lib": "polaris",
+        "domain": "https://irving.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.1",
+        "postal_code": "75060"
+    },
+    {
         "name": "Itasca Community Library",
         "slug": "itd",
         "lib": "aspendiscovery",
@@ -2747,6 +2839,15 @@
         "lng": -78.5,
         "lib": "bibliocommons",
         "postal_code": "K9V 4M8"
+    },
+    {
+        "name": "Kelley Library, Salem, NH",
+        "slug": "kelley",
+        "lib": "aspendiscovery",
+        "domain": "https://kelley.aspendiscovery.org/",
+        "postal_code": "03079",
+        "lat": 42.7875,
+        "lng": -71.2011
     },
     {
         "name": "Kenosha Public Library",
@@ -3117,6 +3218,15 @@
         "postal_code": "72104"
     },
     {
+        "name": "Manchester City Library, NH",
+        "slug": "manchesterlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.manchesterlibrary.org/",
+        "postal_code": "03101",
+        "lat": 42.9956,
+        "lng": -71.4548
+    },
+    {
         "name": "Mansfield/Richland County Public Library",
         "slug": "mansfield",
         "lib": "aspendiscovery",
@@ -3271,6 +3381,15 @@
         "lng": -110.9861,
         "lib": "bibliocommons",
         "postal_code": "94025"
+    },
+    {
+        "name": "Merrimack Public Library, NH",
+        "slug": "merrimacklibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://www.merrimacklibrary.org/",
+        "postal_code": "03054",
+        "lat": 42.8656,
+        "lng": -71.4656
     },
     {
         "name": "Messenger Public Library of North Aurora",
@@ -3551,6 +3670,15 @@
         "postal_code": "V1L 4E4"
     },
     {
+        "name": "Nesmith Library, Windham, NH",
+        "slug": "nesmithlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.nesmithlibrary.org/",
+        "postal_code": "03087",
+        "lat": 42.8639,
+        "lng": -71.3611
+    },
+    {
         "name": "Nevada Library Cooperative",
         "slug": "nvcoop",
         "lib": "aspendiscovery",
@@ -3558,6 +3686,15 @@
         "lat": 39.1638,
         "lng": -119.7674,
         "postal_code": "89701"
+    },
+    {
+        "name": "New Orleans Public Library",
+        "slug": "neworleans",
+        "lat": 29.9511,
+        "lng": -90.0715,
+        "lib": "vegadiscover",
+        "domain": "https://neworleans.na4.iiivega.com/",
+        "postal_code": "70112"
     },
     {
         "name": "New Westminster Public Library",
@@ -4027,6 +4164,16 @@
         "postal_code": "60068"
     },
     {
+        "name": "Parkland Regional Library System, Alberta, Canada",
+        "slug": "prl",
+        "lat": 53.35,
+        "lng": -113.5,
+        "lib": "polaris",
+        "domain": "https://search.prl.ab.ca/polaris/",
+        "ctx": "67.1033.0.0.4",
+        "postal_code": "T7Y 1S5"
+    },
+    {
         "name": "Pasco County Public Library",
         "slug": "pascolibraries",
         "lib": "aspendiscovery",
@@ -4166,6 +4313,16 @@
         "lat": 41.2565,
         "lng": -95.9345,
         "postal_code": "68102"
+    },
+    {
+        "name": "Placer County Library",
+        "slug": "placer",
+        "lat": 39.0916,
+        "lng": -120.8039,
+        "lib": "polaris",
+        "domain": "https://placer.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.6",
+        "postal_code": "95677"
     },
     {
         "name": "Plano Public Library",
@@ -4479,6 +4636,15 @@
         "postal_code": "60546",
         "lat": 41.8262,
         "lng": -87.8193
+    },
+    {
+        "name": "Rodgers Memorial Library, Hudson, NH",
+        "slug": "rodgerslibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://discover.rodgerslibrary.org/",
+        "postal_code": "03051",
+        "lat": 42.7656,
+        "lng": -71.4389
     },
     {
         "name": "Rolling Meadows Library",
@@ -4824,6 +4990,15 @@
         "postal_code": "98273"
     },
     {
+        "name": "Solano County Library",
+        "slug": "splash",
+        "lat": 38.3105,
+        "lng": -122.3076,
+        "lib": "vegadiscover",
+        "domain": "https://splash.na2.iiivega.com/",
+        "postal_code": "94533"
+    },
+    {
         "name": "Sonoma County Library",
         "slug": "sonoma",
         "lat": 38.4414,
@@ -4931,6 +5106,15 @@
         "lng": -113.625,
         "lib": "bibliocommons",
         "postal_code": "T8N 1B4"
+    },
+    {
+        "name": "St. Charles City-County Library",
+        "slug": "scccl",
+        "lat": 38.7889,
+        "lng": -90.4975,
+        "lib": "vegadiscover",
+        "domain": "https://scccl.na4.iiivega.com/",
+        "postal_code": "63301"
     },
     {
         "name": "St. Charles District Library",
@@ -5260,6 +5444,16 @@
         "postal_code": "M5H 2N2"
     },
     {
+        "name": "Torrance Public Library, CA",
+        "slug": "torrance",
+        "lat": 33.8358,
+        "lng": -118.3406,
+        "lib": "polaris",
+        "domain": "https://torrance.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.1",
+        "postal_code": "90501"
+    },
+    {
         "name": "Town and Country Public Library District",
         "slug": "tcd",
         "lib": "aspendiscovery",
@@ -5393,6 +5587,25 @@
         "lng": -113.2636,
         "lib": "bibliocommons",
         "postal_code": "T0C 2B0"
+    },
+    {
+        "name": "Wadleigh Memorial Library, Milford, NH",
+        "slug": "wadleighlibrary",
+        "lib": "aspendiscovery",
+        "domain": "https://www.wadleighlibrary.org/",
+        "postal_code": "03055",
+        "lat": 42.8306,
+        "lng": -71.525
+    },
+    {
+        "name": "Waggin - Washington, Greene, & Fayette Library Consortium",
+        "slug": "waggin",
+        "lat": 39.6333,
+        "lng": -79.9667,
+        "lib": "polaris",
+        "domain": "https://waggin.polarislibrary.com/",
+        "ctx": "19.1033.0.0.1",
+        "postal_code": "15301"
     },
     {
         "name": "Walla Walla County Rural Library District",
@@ -5719,6 +5932,15 @@
         "postal_code": "60093"
     },
     {
+        "name": "Winnipeg Public Library",
+        "slug": "winca",
+        "lat": 49.8951,
+        "lng": -97.1384,
+        "lib": "sirsi",
+        "domain": "https://winca.ent.sirsidynix.net/",
+        "postal_code": "R3C 3G8"
+    },
+    {
         "name": "Wood Buffalo Regional Library",
         "slug": "wbrl",
         "lat": 57.1522,
@@ -5795,6 +6017,15 @@
         "lat": 41.705,
         "lng": -70.228,
         "postal_code": "02664"
+    },
+    {
+        "name": "Yavapai County Library District",
+        "slug": "yln",
+        "lib": "aspendiscovery",
+        "domain": "https://catalog.yln.info/",
+        "postal_code": "86314",
+        "lat": 34.5889,
+        "lng": -112.4231
     },
     {
         "name": "Yavapai Library Network",

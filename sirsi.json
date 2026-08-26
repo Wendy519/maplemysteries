@@ -106,5 +106,14 @@
         "lib": "sirsi",
         "domain": "https://pdl.ent.sirsi.net/",
         "postal_code": "49002"
+    },
+    {
+        "name": "Winnipeg Public Library",
+        "slug": "winca",
+        "lat": 49.8951,
+        "lng": -97.1384,
+        "lib": "sirsi",
+        "domain": "https://winca.ent.sirsidynix.net/",
+        "postal_code": "R3C 3G8"
     }
 ]

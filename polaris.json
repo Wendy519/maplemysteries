@@ -5,7 +5,58 @@
         "lat": 32.7555,
         "lng": -97.3308,
         "lib": "polaris",
-        "domain": "https://fwpl.polarislibrary.com/",
+        "domain": "https://fwpl.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.1",
         "postal_code": "76102"
+    },
+    {
+        "name": "Waggin - Washington, Greene, & Fayette Library Consortium",
+        "slug": "waggin",
+        "lat": 39.6333,
+        "lng": -79.9667,
+        "lib": "polaris",
+        "domain": "https://waggin.polarislibrary.com/",
+        "ctx": "19.1033.0.0.1",
+        "postal_code": "15301"
+    },
+    {
+        "name": "Placer County Library",
+        "slug": "placer",
+        "lat": 39.0916,
+        "lng": -120.8039,
+        "lib": "polaris",
+        "domain": "https://placer.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.6",
+        "postal_code": "95677"
+    },
+    {
+        "name": "Irving Public Library, TX",
+        "slug": "irving",
+        "lat": 32.8140,
+        "lng": -96.9489,
+        "lib": "polaris",
+        "domain": "https://irving.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.1",
+        "postal_code": "75060"
+    },
+    {
+        "name": "Torrance Public Library, CA",
+        "slug": "torrance",
+        "lat": 33.8358,
+        "lng": -118.3406,
+        "lib": "polaris",
+        "domain": "https://torrance.polarislibrary.com/polaris/",
+        "ctx": "1.1033.0.0.1",
+        "postal_code": "90501"
+    },
+    {
+        "name": "Parkland Regional Library System, Alberta, Canada",
+        "slug": "prl",
+        "lat": 53.3500,
+        "lng": -113.5000,
+        "lib": "polaris",
+        "domain": "https://search.prl.ab.ca/polaris/",
+        "ctx": "67.1033.0.0.4",
+        "postal_code": "T7Y 1S5"
     }
 ]
