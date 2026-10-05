@@ -535,6 +535,15 @@
         "postal_code": "03221"
     },
     {
+        "name": "Bradford West Gwillimbury Public Library",
+        "slug": "bradford",
+        "lat": 44.1167,
+        "lng": -79.5667,
+        "lib": "iguana",
+        "domain": "https://bradford.library.on.ca/iguana/",
+        "postal_code": "L3Z 2A7"
+    },
+    {
         "name": "Brantford Public Library",
         "slug": "brantford",
         "lat": 43.1599,
@@ -1228,6 +1237,15 @@
         "postal_code": "97330"
     },
     {
+        "name": "Cote Saint-Luc Public Library",
+        "slug": "csllibrary",
+        "lib": "iguana",
+        "domain": "https://csllibrary.org/iguana/",
+        "postal_code": "H4W 2E1",
+        "lat": 45.4894,
+        "lng": -73.6361
+    },
+    {
         "name": "Cotuit Library",
         "slug": "cotuit",
         "lat": 41.65,
@@ -1482,6 +1500,15 @@
         "postal_code": "97701"
     },
     {
+        "name": "Dollard-des-Ormeaux Library",
+        "slug": "ddo",
+        "lib": "iguana",
+        "domain": "https://webopac.ddo.qc.ca/iguana/",
+        "postal_code": "H9B 2A7",
+        "lat": 45.4668,
+        "lng": -73.8283
+    },
+    {
         "name": "Dolton Public Library District",
         "slug": "dos",
         "lib": "aspendiscovery",
@@ -1497,6 +1524,15 @@
         "lng": -85.7225,
         "lib": "bibliocommons",
         "postal_code": "49323"
+    },
+    {
+        "name": "Dorval Library and Culture Centre",
+        "slug": "ville",
+        "lib": "iguana",
+        "domain": "https://biblioweb.ville.dorval.qc.ca/iguana/",
+        "postal_code": "H9S 2C4",
+        "lat": 45.45,
+        "lng": -73.7333
     },
     {
         "name": "Dothan Houston County Library System",
@@ -2890,6 +2926,15 @@
         "postal_code": "L7B 1K5"
     },
     {
+        "name": "Kingston Frontenac Public Library",
+        "slug": "kfpl",
+        "lat": 44.2312,
+        "lng": -76.4859,
+        "lib": "none",
+        "domain": "https://catalog.kfpl.ca/catalogue/advanced?searchterms[]=",
+        "postal_code": "K7L 2V1"
+    },
+    {
         "name": "Kitimat Public Library Association",
         "slug": "kitimat",
         "lat": 54.0522,
@@ -2989,6 +3034,15 @@
         "lib": "sirsi",
         "domain": "https://lwpl.ent.sirsi.net/",
         "postal_code": "44107"
+    },
+    {
+        "name": "Lambton county Library",
+        "slug": "lclibrary",
+        "lat": 42.9832,
+        "lng": -85.062,
+        "lib": "iguana",
+        "domain": "https://catalogue.lclibrary.ca/iguana/",
+        "postal_code": "N0N 1T0"
     },
     {
         "name": "Lansing Public Library",
@@ -4698,6 +4752,15 @@
         "postal_code": "78664"
     },
     {
+        "name": "Russell Township Public Library",
+        "slug": "russellbiblio",
+        "lib": "iguana",
+        "domain": "https://catalogue.russellbiblio.com/iguana/",
+        "postal_code": "K4R 1E1",
+        "lat": 45.262,
+        "lng": -75.3608
+    },
+    {
         "name": "Ruth Hughes Memorial District Library",
         "slug": "ruthhughes",
         "lat": 43.0258,
@@ -5846,6 +5909,15 @@
         "postal_code": "60559",
         "lat": 41.8062,
         "lng": -87.9762
+    },
+    {
+        "name": "Westmount Public Library (Quebec)",
+        "slug": "westlib",
+        "domain": "https://westlib.org/iguana/",
+        "lat": 45.4972,
+        "lng": -73.5878,
+        "lib": "iguana",
+        "postal_code": "H3Z 1G1"
     },
     {
         "name": "Whatcom County Library System",
